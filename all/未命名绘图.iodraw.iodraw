@@ -94,10 +94,10 @@
           <mxGeometry x="1356" y="310" width="156" height="66" as="geometry" />
         </mxCell>
         <mxCell id="VdReUI53LrXX9qJrLmI8-54" value="FRQ服务器" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1356" y="390" width="156" height="66" as="geometry" />
+          <mxGeometry x="1348" y="396" width="156" height="66" as="geometry" />
         </mxCell>
         <mxCell id="VdReUI53LrXX9qJrLmI8-55" value="Rustdesk中继服务器" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1356" y="470" width="156" height="66" as="geometry" />
+          <mxGeometry x="1350" y="488" width="156" height="66" as="geometry" />
         </mxCell>
         <mxCell id="VdReUI53LrXX9qJrLmI8-56" value="RustdeskID服务器" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1356" y="580" width="156" height="66" as="geometry" />
