@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="VdReUI53LrXX9qJrLmI8-1" value="" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="300" y="1099" width="640" height="210" as="geometry" />
+          <mxGeometry x="300" y="940" width="640" height="210" as="geometry" />
         </mxCell>
         <mxCell id="VdReUI53LrXX9qJrLmI8-2" value="" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="300" y="420" width="640" height="210" as="geometry" />
@@ -29,10 +29,10 @@
           <mxGeometry x="1353.5" y="1101" width="149" height="48" as="geometry" />
         </mxCell>
         <mxCell id="VdReUI53LrXX9qJrLmI8-16" value="MAVLink V2协议" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="532" y="917" width="174" height="48" as="geometry" />
+          <mxGeometry x="543.5" y="870" width="174" height="48" as="geometry" />
         </mxCell>
         <mxCell id="VdReUI53LrXX9qJrLmI8-17" value="ROS核心&#xa;模块化调度与数据融合" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="520" y="780" width="220" height="66" as="geometry" />
+          <mxGeometry x="517.5" y="740" width="220" height="66" as="geometry" />
         </mxCell>
         <mxCell id="VdReUI53LrXX9qJrLmI8-18" value="路径规划与避障&#xa;栅格地图算法" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="360" y="490" width="172" height="66" as="geometry" />
