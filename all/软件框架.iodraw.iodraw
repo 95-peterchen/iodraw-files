@@ -79,7 +79,7 @@
         <mxCell id="VdReUI53LrXX9qJrLmI8-9" value="远程控制终端&#xa;Qt开发界面" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1125" y="279" width="156" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="VdReUI53LrXX9qJrLmI8-51" value="" style="whiteSpace=wrap;strokeWidth=2;fillColor=#CCCCFF;" vertex="1" parent="1">
+        <mxCell id="VdReUI53LrXX9qJrLmI8-51" value="" style="whiteSpace=wrap;strokeWidth=2;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="1035" y="246" width="336" height="561" as="geometry" />
         </mxCell>
         <mxCell id="VdReUI53LrXX9qJrLmI8-52" value="远程服务器" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -145,7 +145,7 @@
         <mxCell id="VdReUI53LrXX9qJrLmI8-120" value="swar通讯" style="whiteSpace=wrap;strokeWidth=2;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="735.5" y="610" width="197.5" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="VdReUI53LrXX9qJrLmI8-123" value="swar通讯" style="whiteSpace=wrap;strokeWidth=2;fillColor=#009900;" vertex="1" parent="1">
+        <mxCell id="VdReUI53LrXX9qJrLmI8-123" value="swar通讯" style="whiteSpace=wrap;strokeWidth=2;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="1035" y="1047" width="95" height="42" as="geometry" />
         </mxCell>
       </root>
