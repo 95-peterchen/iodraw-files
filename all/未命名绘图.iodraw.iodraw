@@ -102,9 +102,6 @@
         <mxCell id="VdReUI53LrXX9qJrLmI8-8" value="远程桌面服务&#xa;RustDesk" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1340" y="1120" width="156" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="VdReUI53LrXX9qJrLmI8-10" value="ZMQ消息中间件" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="970" y="699" width="171" height="48" as="geometry" />
-        </mxCell>
         <mxCell id="VdReUI53LrXX9qJrLmI8-9" value="远程控制终端&#xa;Qt开发界面" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1350" y="282" width="156" height="66" as="geometry" />
         </mxCell>
@@ -116,6 +113,9 @@
         </mxCell>
         <mxCell id="VdReUI53LrXX9qJrLmI8-11" value="FRP内网穿透" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1355" y="340" width="151" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="VdReUI53LrXX9qJrLmI8-10" value="ZMQ消息中间件" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1348.5" y="500" width="171" height="48" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
