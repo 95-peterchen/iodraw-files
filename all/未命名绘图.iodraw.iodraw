@@ -38,7 +38,7 @@
           <mxGeometry x="360" y="490" width="172" height="66" as="geometry" />
         </mxCell>
         <mxCell id="VdReUI53LrXX9qJrLmI8-19" value="轮式履带车&#xa;APM控制器" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="425" y="1020" width="140" height="66" as="geometry" />
+          <mxGeometry x="400.5" y="1006" width="140" height="66" as="geometry" />
         </mxCell>
         <mxCell id="VdReUI53LrXX9qJrLmI8-20" value="四旋翼无人机&#xa;PX4飞控" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="750" y="1020" width="116" height="66" as="geometry" />
