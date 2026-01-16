@@ -25,7 +25,7 @@
           <mxGeometry x="1770" y="80" width="448" height="116" as="geometry" />
         </mxCell>
         <mxCell id="VdReUI53LrXX9qJrLmI8-6" value="远程交互与监控层" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1810" y="560" width="450" height="279" as="geometry" />
+          <mxGeometry x="940" y="759.5" width="450" height="279" as="geometry" />
         </mxCell>
         <mxCell id="VdReUI53LrXX9qJrLmI8-7" value="视频直播服务&#xa;SRS流媒体" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1343" y="45" width="156" height="66" as="geometry" />
