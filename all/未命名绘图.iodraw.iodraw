@@ -76,7 +76,7 @@
           <mxGeometry x="620" y="300" width="120" height="48" as="geometry" />
         </mxCell>
         <mxCell id="VdReUI53LrXX9qJrLmI8-6" value="远程交互与监控层" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="964" y="830" width="336" height="480" as="geometry" />
+          <mxGeometry x="1460" y="753" width="336" height="480" as="geometry" />
         </mxCell>
         <mxCell id="VdReUI53LrXX9qJrLmI8-44" value="GPS模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="480" y="300" width="119" height="48" as="geometry" />
@@ -110,6 +110,9 @@
         </mxCell>
         <mxCell id="VdReUI53LrXX9qJrLmI8-10" value="ZMQ消息中间件" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="970" y="699" width="171" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="VdReUI53LrXX9qJrLmI8-51" value="远程交互与监控层" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1450" y="240" width="336" height="480" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
