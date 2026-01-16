@@ -44,7 +44,7 @@
           <mxGeometry x="512.5" y="600" width="220" height="66" as="geometry" />
         </mxCell>
         <mxCell id="VdReUI53LrXX9qJrLmI8-18" value="路径规划" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="334" y="470" width="134" height="42" as="geometry" />
+          <mxGeometry x="351" y="470" width="134" height="42" as="geometry" />
         </mxCell>
         <mxCell id="VdReUI53LrXX9qJrLmI8-19" value="轮式履带车&#xa;APM控制器" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="344" y="1012" width="140" height="66" as="geometry" />
@@ -125,13 +125,13 @@
           <mxGeometry x="732.5" y="831" width="174" height="48" as="geometry" />
         </mxCell>
         <mxCell id="VdReUI53LrXX9qJrLmI8-85" value="栅格避障" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="469" y="470" width="134" height="42" as="geometry" />
+          <mxGeometry x="486" y="470" width="134" height="42" as="geometry" />
         </mxCell>
         <mxCell id="VdReUI53LrXX9qJrLmI8-86" value="数据采集" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="603" y="470" width="134" height="42" as="geometry" />
+          <mxGeometry x="620" y="470" width="134" height="42" as="geometry" />
         </mxCell>
         <mxCell id="VdReUI53LrXX9qJrLmI8-87" value="流程控制" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="736.5" y="470" width="134" height="42" as="geometry" />
+          <mxGeometry x="753.5" y="470" width="134" height="42" as="geometry" />
         </mxCell>
         <mxCell id="VdReUI53LrXX9qJrLmI8-91" value="机械臂控制板" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="762" y="1012" width="116" height="66" as="geometry" />
@@ -144,6 +144,9 @@
         </mxCell>
         <mxCell id="VdReUI53LrXX9qJrLmI8-120" value="swar通讯" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="732.5" y="610" width="134" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="VdReUI53LrXX9qJrLmI8-122" value="路径规划" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="361" y="480" width="134" height="42" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
