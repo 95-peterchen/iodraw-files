@@ -32,7 +32,7 @@
           <mxGeometry x="1349" y="1171" width="174" height="48" as="geometry" />
         </mxCell>
         <mxCell id="VdReUI53LrXX9qJrLmI8-17" value="ROS核心&#xa;模块化调度与数据融合" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="490" y="800" width="220" height="66" as="geometry" />
+          <mxGeometry x="520" y="780" width="220" height="66" as="geometry" />
         </mxCell>
         <mxCell id="VdReUI53LrXX9qJrLmI8-18" value="路径规划与避障&#xa;栅格地图算法" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="360" y="490" width="172" height="66" as="geometry" />
@@ -67,7 +67,7 @@
           <mxGeometry x="760" y="300" width="119" height="48" as="geometry" />
         </mxCell>
         <mxCell id="VdReUI53LrXX9qJrLmI8-48" value="智能体控制与协同层" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="522" y="440" width="200" height="30" as="geometry" />
+          <mxGeometry x="517.5" y="420" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VdReUI53LrXX9qJrLmI8-7" value="视频直播服务&#xa;SRS流媒体" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1277" y="1051" width="156" height="66" as="geometry" />
