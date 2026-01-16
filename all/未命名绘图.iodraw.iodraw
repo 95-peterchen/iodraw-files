@@ -83,13 +83,13 @@
           <mxGeometry x="1271" y="293" width="156" height="66" as="geometry" />
         </mxCell>
         <mxCell id="VdReUI53LrXX9qJrLmI8-51" value="" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1181" y="260" width="336" height="561" as="geometry" />
+          <mxGeometry x="1035" y="240" width="305" height="567" as="geometry" />
         </mxCell>
         <mxCell id="VdReUI53LrXX9qJrLmI8-52" value="远程服务器" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1295" y="231" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VdReUI53LrXX9qJrLmI8-11" value="FRP内网穿透" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="950" y="756" width="151" height="344" as="geometry" />
+          <mxGeometry x="957.5" y="757" width="60" height="344" as="geometry" />
         </mxCell>
         <mxCell id="VdReUI53LrXX9qJrLmI8-10" value="ZMQ消息中间件" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="957.5" y="311" width="55" height="257" as="geometry" />
