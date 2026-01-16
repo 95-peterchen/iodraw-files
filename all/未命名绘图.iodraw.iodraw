@@ -142,10 +142,10 @@
         <mxCell id="VdReUI53LrXX9qJrLmI8-92" value="Mavros桥梁" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="380" y="831" width="174" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="VdReUI53LrXX9qJrLmI8-120" value="swar通讯" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="VdReUI53LrXX9qJrLmI8-120" value="swar通讯" style="whiteSpace=wrap;strokeWidth=2;fillColor=#009900;" vertex="1" parent="1">
           <mxGeometry x="735.5" y="610" width="197.5" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="VdReUI53LrXX9qJrLmI8-123" value="swar通讯" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="VdReUI53LrXX9qJrLmI8-123" value="swar通讯" style="whiteSpace=wrap;strokeWidth=2;fillColor=#009900;" vertex="1" parent="1">
           <mxGeometry x="1035" y="1047" width="95" height="42" as="geometry" />
         </mxCell>
       </root>
