@@ -100,10 +100,10 @@
           <mxGeometry x="1277" y="499" width="156" height="66" as="geometry" />
         </mxCell>
         <mxCell id="VdReUI53LrXX9qJrLmI8-56" value="RustdeskID服务器" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1277" y="591" width="156" height="66" as="geometry" />
+          <mxGeometry x="1277" y="600" width="156" height="66" as="geometry" />
         </mxCell>
         <mxCell id="VdReUI53LrXX9qJrLmI8-57" value="远程交互与监控层" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1285" y="951" width="140" height="30" as="geometry" />
+          <mxGeometry x="1285" y="887" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VdReUI53LrXX9qJrLmI8-59" value="异构硬件执行层" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="510" y="1099" width="180" height="30" as="geometry" />
