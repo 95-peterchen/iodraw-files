@@ -35,18 +35,13 @@
           <mxGeometry x="497.5" y="590" width="220" height="66" as="geometry" />
         </mxCell>
         <mxCell id="VdReUI53LrXX9qJrLmI8-18" value="路径规划与避障&#xa;栅格地图算法" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="480" y="488" width="172" height="66" as="geometry" />
+          <mxGeometry x="368.5" y="480" width="172" height="66" as="geometry" />
         </mxCell>
         <mxCell id="VdReUI53LrXX9qJrLmI8-19" value="轮式履带车&#xa;APM控制器" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="400.5" y="1006" width="140" height="66" as="geometry" />
         </mxCell>
         <mxCell id="VdReUI53LrXX9qJrLmI8-20" value="四旋翼无人机&#xa;PX4飞控" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="737.5" y="1000" width="116" height="66" as="geometry" />
-        </mxCell>
-        <mxCell id="VdReUI53LrXX9qJrLmI8-29" value="点云数据" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="VdReUI53LrXX9qJrLmI8-13" target="VdReUI53LrXX9qJrLmI8-18">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="VdReUI53LrXX9qJrLmI8-12" value="微控开关" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="620" y="300" width="120" height="48" as="geometry" />
