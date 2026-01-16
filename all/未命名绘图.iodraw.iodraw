@@ -55,7 +55,7 @@
           <mxGeometry x="620" y="300" width="120" height="48" as="geometry" />
         </mxCell>
         <mxCell id="VdReUI53LrXX9qJrLmI8-6" value="" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1266" y="728" width="336" height="582" as="geometry" />
+          <mxGeometry x="1266" y="930" width="336" height="380" as="geometry" />
         </mxCell>
         <mxCell id="VdReUI53LrXX9qJrLmI8-44" value="GPS模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="480" y="300" width="119" height="48" as="geometry" />
@@ -70,10 +70,10 @@
           <mxGeometry x="522" y="440" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VdReUI53LrXX9qJrLmI8-7" value="视频直播服务&#xa;SRS流媒体" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1356" y="790" width="156" height="66" as="geometry" />
+          <mxGeometry x="1356" y="1040" width="156" height="66" as="geometry" />
         </mxCell>
         <mxCell id="VdReUI53LrXX9qJrLmI8-8" value="远程桌面服务&#xa;RustDesk" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1356" y="894" width="156" height="66" as="geometry" />
+          <mxGeometry x="1356" y="1142" width="156" height="66" as="geometry" />
         </mxCell>
         <mxCell id="VdReUI53LrXX9qJrLmI8-9" value="远程控制终端&#xa;Qt开发界面" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1350" y="282" width="156" height="66" as="geometry" />
@@ -112,7 +112,7 @@
           <mxGeometry x="517.5" y="700" width="165" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VdReUI53LrXX9qJrLmI8-63" value="QT控制终端" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1356" y="1000" width="156" height="66" as="geometry" />
+          <mxGeometry x="1356" y="1230" width="156" height="66" as="geometry" />
         </mxCell>
         <mxCell id="VdReUI53LrXX9qJrLmI8-64" value="后端处理单元" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1356" y="630" width="156" height="66" as="geometry" />
