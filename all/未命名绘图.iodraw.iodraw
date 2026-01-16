@@ -55,7 +55,7 @@
           <mxGeometry x="620" y="300" width="120" height="48" as="geometry" />
         </mxCell>
         <mxCell id="VdReUI53LrXX9qJrLmI8-6" value="" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1266" y="930" width="336" height="380" as="geometry" />
+          <mxGeometry x="1260" y="876" width="336" height="380" as="geometry" />
         </mxCell>
         <mxCell id="VdReUI53LrXX9qJrLmI8-44" value="GPS模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="480" y="300" width="119" height="48" as="geometry" />
@@ -97,13 +97,13 @@
           <mxGeometry x="1356" y="390" width="156" height="66" as="geometry" />
         </mxCell>
         <mxCell id="VdReUI53LrXX9qJrLmI8-55" value="Rustdesk中继服务器" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1350" y="488" width="156" height="66" as="geometry" />
+          <mxGeometry x="1356" y="488" width="156" height="66" as="geometry" />
         </mxCell>
         <mxCell id="VdReUI53LrXX9qJrLmI8-56" value="RustdeskID服务器" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1356" y="580" width="156" height="66" as="geometry" />
         </mxCell>
         <mxCell id="VdReUI53LrXX9qJrLmI8-57" value="远程交互与监控层" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1364" y="960" width="140" height="30" as="geometry" />
+          <mxGeometry x="1364" y="940" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VdReUI53LrXX9qJrLmI8-59" value="异构硬件执行层" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="510" y="1099" width="180" height="30" as="geometry" />
