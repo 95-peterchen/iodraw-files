@@ -120,8 +120,8 @@
         <mxCell id="VdReUI53LrXX9qJrLmI8-67" value="无人车工控机" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="610" y="1020" width="100" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="VdReUI53LrXX9qJrLmI8-77" value="无人车工控机" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="620" y="1030" width="100" height="66" as="geometry" />
+        <mxCell id="VdReUI53LrXX9qJrLmI8-78" value="轮式履带车&#xa;APM控制器" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="334" y="1030" width="140" height="66" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
