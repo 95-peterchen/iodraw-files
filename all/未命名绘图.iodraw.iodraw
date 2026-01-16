@@ -10,7 +10,7 @@
         <mxCell id="VdReUI53LrXX9qJrLmI8-2" value="" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="300" y="420" width="640" height="279" as="geometry" />
         </mxCell>
-        <mxCell id="VdReUI53LrXX9qJrLmI8-3" value="硬件平台管理层" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="VdReUI53LrXX9qJrLmI8-3" value="" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="300" y="699" width="640" height="400" as="geometry" />
         </mxCell>
         <mxCell id="VdReUI53LrXX9qJrLmI8-4" value="" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
@@ -64,6 +64,11 @@
             <Array as="points">
               <mxPoint x="859" y="524" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VdReUI53LrXX9qJrLmI8-60" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="VdReUI53LrXX9qJrLmI8-30">
+          <mxGeometry x="0.9053" y="4" relative="1" as="geometry">
+            <mxPoint y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="VdReUI53LrXX9qJrLmI8-31" value="高执行反馈命令" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="VdReUI53LrXX9qJrLmI8-17" target="VdReUI53LrXX9qJrLmI8-14">
