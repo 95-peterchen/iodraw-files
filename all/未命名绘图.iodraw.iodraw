@@ -114,8 +114,8 @@
         <mxCell id="VdReUI53LrXX9qJrLmI8-10" value="ZMQ消息中间件" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1000" y="620" width="171" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="VdReUI53LrXX9qJrLmI8-53" value="视频直播服务&#xa;SRS流媒体" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1344" y="348" width="156" height="66" as="geometry" />
+        <mxCell id="VdReUI53LrXX9qJrLmI8-53" value="&#xa;SRS服务器" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1356" y="310" width="156" height="66" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
