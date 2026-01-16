@@ -22,7 +22,7 @@
           <mxGeometry x="300" y="246" width="640" height="174" as="geometry" />
         </mxCell>
         <mxCell id="VdReUI53LrXX9qJrLmI8-5" value="公网通信层" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1770" y="80" width="448" height="116" as="geometry" />
+          <mxGeometry x="300" y="80" width="448" height="116" as="geometry" />
         </mxCell>
         <mxCell id="VdReUI53LrXX9qJrLmI8-7" value="视频直播服务&#xa;SRS流媒体" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1343" y="45" width="156" height="66" as="geometry" />
