@@ -106,7 +106,7 @@
           <mxGeometry x="1260" y="219" width="336" height="480" as="geometry" />
         </mxCell>
         <mxCell id="VdReUI53LrXX9qJrLmI8-52" value="远程服务器" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1380" y="250" width="120" height="30" as="geometry" />
+          <mxGeometry x="1374" y="220" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VdReUI53LrXX9qJrLmI8-11" value="FRP内网穿透" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="990" y="431" width="151" height="48" as="geometry" />
@@ -127,7 +127,7 @@
           <mxGeometry x="1356" y="551" width="156" height="66" as="geometry" />
         </mxCell>
         <mxCell id="VdReUI53LrXX9qJrLmI8-57" value="远程交互与监控层" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1364" y="740" width="140" height="30" as="geometry" />
+          <mxGeometry x="1364" y="730" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
