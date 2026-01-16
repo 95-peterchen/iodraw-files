@@ -19,7 +19,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="VdReUI53LrXX9qJrLmI8-4" value="感知与定位层" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="724" y="256" width="363" height="116" as="geometry" />
+          <mxGeometry x="310" y="196" width="630" height="174" as="geometry" />
         </mxCell>
         <mxCell id="VdReUI53LrXX9qJrLmI8-5" value="公网通信层" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1770" y="80" width="448" height="116" as="geometry" />
@@ -148,7 +148,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="VdReUI53LrXX9qJrLmI8-12" value="GPS模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="738" y="290" width="119" height="48" as="geometry" />
+          <mxGeometry x="1074" y="180" width="119" height="48" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
