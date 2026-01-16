@@ -13,6 +13,11 @@
         <mxCell id="VdReUI53LrXX9qJrLmI8-3" value="硬件平台管理层" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1240" y="866" width="540" height="400" as="geometry" />
         </mxCell>
+        <mxCell id="VdReUI53LrXX9qJrLmI8-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="VdReUI53LrXX9qJrLmI8-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="798" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="VdReUI53LrXX9qJrLmI8-4" value="感知与定位层" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="724" y="256" width="363" height="116" as="geometry" />
         </mxCell>
@@ -50,7 +55,7 @@
           <mxGeometry x="1428" y="1160" width="174" height="48" as="geometry" />
         </mxCell>
         <mxCell id="VdReUI53LrXX9qJrLmI8-17" value="ROS核心&#xa;模块化调度与数据融合" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1414" y="750" width="220" height="66" as="geometry" />
+          <mxGeometry x="1414" y="730" width="220" height="66" as="geometry" />
         </mxCell>
         <mxCell id="VdReUI53LrXX9qJrLmI8-18" value="路径规划与避障&#xa;栅格地图算法" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="892" y="406" width="172" height="66" as="geometry" />
