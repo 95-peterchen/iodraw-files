@@ -35,7 +35,7 @@
           <mxGeometry x="510" y="565" width="220" height="66" as="geometry" />
         </mxCell>
         <mxCell id="VdReUI53LrXX9qJrLmI8-18" value="路径规划" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="316" y="488" width="172" height="66" as="geometry" />
+          <mxGeometry x="316" y="488" width="172" height="42" as="geometry" />
         </mxCell>
         <mxCell id="VdReUI53LrXX9qJrLmI8-19" value="轮式履带车&#xa;APM控制器" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="400.5" y="1006" width="140" height="66" as="geometry" />
@@ -110,7 +110,7 @@
           <mxGeometry x="1277" y="690" width="156" height="66" as="geometry" />
         </mxCell>
         <mxCell id="VdReUI53LrXX9qJrLmI8-82" value="栅格避障" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="542.5" y="480" width="172" height="66" as="geometry" />
+          <mxGeometry x="503" y="488" width="172" height="66" as="geometry" />
         </mxCell>
         <mxCell id="VdReUI53LrXX9qJrLmI8-83" value="流程控制" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="717.5" y="480" width="172" height="66" as="geometry" />
