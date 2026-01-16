@@ -35,7 +35,7 @@
           <mxGeometry x="490" y="800" width="220" height="66" as="geometry" />
         </mxCell>
         <mxCell id="VdReUI53LrXX9qJrLmI8-18" value="路径规划与避障&#xa;栅格地图算法" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="338" y="526.5" width="172" height="66" as="geometry" />
+          <mxGeometry x="360" y="490" width="172" height="66" as="geometry" />
         </mxCell>
         <mxCell id="VdReUI53LrXX9qJrLmI8-19" value="轮式履带车&#xa;APM控制器" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="400" y="1180" width="140" height="66" as="geometry" />
@@ -79,7 +79,7 @@
           <mxGeometry x="1271" y="293" width="156" height="66" as="geometry" />
         </mxCell>
         <mxCell id="VdReUI53LrXX9qJrLmI8-51" value="" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1181" y="250" width="336" height="571" as="geometry" />
+          <mxGeometry x="1181" y="220" width="336" height="601" as="geometry" />
         </mxCell>
         <mxCell id="VdReUI53LrXX9qJrLmI8-52" value="远程服务器" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1295" y="231" width="120" height="30" as="geometry" />
