@@ -23,10 +23,10 @@
           <mxGeometry x="340" y="300" width="124" height="48" as="geometry" />
         </mxCell>
         <mxCell id="VdReUI53LrXX9qJrLmI8-14" value="嵌入式Linux&#xa;工控机" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1205" y="960" width="147" height="66" as="geometry" />
+          <mxGeometry x="1205" y="957" width="147" height="66" as="geometry" />
         </mxCell>
         <mxCell id="VdReUI53LrXX9qJrLmI8-15" value="MAVROS桥接" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1207.5" y="1090" width="149" height="48" as="geometry" />
+          <mxGeometry x="1207.5" y="1087" width="149" height="48" as="geometry" />
         </mxCell>
         <mxCell id="VdReUI53LrXX9qJrLmI8-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VdReUI53LrXX9qJrLmI8-16" target="VdReUI53LrXX9qJrLmI8-19">
           <mxGeometry relative="1" as="geometry" />
@@ -59,7 +59,7 @@
           <mxGeometry x="620" y="300" width="120" height="48" as="geometry" />
         </mxCell>
         <mxCell id="VdReUI53LrXX9qJrLmI8-6" value="" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1035" y="876" width="336" height="363" as="geometry" />
+          <mxGeometry x="1035" y="873" width="336" height="363" as="geometry" />
         </mxCell>
         <mxCell id="VdReUI53LrXX9qJrLmI8-44" value="GPS模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="480" y="300" width="119" height="48" as="geometry" />
@@ -74,19 +74,19 @@
           <mxGeometry x="517.5" y="420" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VdReUI53LrXX9qJrLmI8-7" value="视频直播服务&#xa;SRS流媒体" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1131" y="929" width="156" height="66" as="geometry" />
+          <mxGeometry x="1131" y="926" width="156" height="66" as="geometry" />
         </mxCell>
         <mxCell id="VdReUI53LrXX9qJrLmI8-8" value="远程桌面服务&#xa;RustDesk" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1131" y="1024" width="156" height="66" as="geometry" />
+          <mxGeometry x="1131" y="1021" width="156" height="66" as="geometry" />
         </mxCell>
         <mxCell id="VdReUI53LrXX9qJrLmI8-9" value="远程控制终端&#xa;Qt开发界面" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1125" y="282" width="156" height="66" as="geometry" />
+          <mxGeometry x="1125" y="279" width="156" height="66" as="geometry" />
         </mxCell>
         <mxCell id="VdReUI53LrXX9qJrLmI8-51" value="" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1035" y="249" width="336" height="561" as="geometry" />
+          <mxGeometry x="1035" y="246" width="336" height="561" as="geometry" />
         </mxCell>
         <mxCell id="VdReUI53LrXX9qJrLmI8-52" value="远程服务器" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1149" y="220" width="120" height="30" as="geometry" />
+          <mxGeometry x="1149" y="246" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VdReUI53LrXX9qJrLmI8-11" value="FRP内网穿透" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="957.5" y="757" width="60" height="344" as="geometry" />
@@ -95,19 +95,19 @@
           <mxGeometry x="957.5" y="311" width="55" height="257" as="geometry" />
         </mxCell>
         <mxCell id="VdReUI53LrXX9qJrLmI8-53" value="&#xa;SRS服务器" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1131" y="300" width="156" height="66" as="geometry" />
+          <mxGeometry x="1131" y="297" width="156" height="66" as="geometry" />
         </mxCell>
         <mxCell id="VdReUI53LrXX9qJrLmI8-54" value="FRQ服务器" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1131" y="390" width="156" height="66" as="geometry" />
+          <mxGeometry x="1131" y="387" width="156" height="66" as="geometry" />
         </mxCell>
         <mxCell id="VdReUI53LrXX9qJrLmI8-55" value="Rustdesk中继服务器" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1131" y="488" width="156" height="66" as="geometry" />
+          <mxGeometry x="1131" y="485" width="156" height="66" as="geometry" />
         </mxCell>
         <mxCell id="VdReUI53LrXX9qJrLmI8-56" value="RustdeskID服务器" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1131" y="589" width="156" height="66" as="geometry" />
+          <mxGeometry x="1131" y="586" width="156" height="66" as="geometry" />
         </mxCell>
         <mxCell id="VdReUI53LrXX9qJrLmI8-57" value="远程交互与监控层" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1139" y="876" width="140" height="30" as="geometry" />
+          <mxGeometry x="1139" y="873" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VdReUI53LrXX9qJrLmI8-59" value="异构硬件执行层" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="527.5" y="941" width="180" height="30" as="geometry" />
@@ -116,10 +116,10 @@
           <mxGeometry x="542.5" y="768" width="165" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VdReUI53LrXX9qJrLmI8-63" value="QT控制终端" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1131" y="1129" width="156" height="66" as="geometry" />
+          <mxGeometry x="1131" y="1126" width="156" height="66" as="geometry" />
         </mxCell>
         <mxCell id="VdReUI53LrXX9qJrLmI8-64" value="后端处理单元" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1131" y="679" width="156" height="66" as="geometry" />
+          <mxGeometry x="1131" y="676" width="156" height="66" as="geometry" />
         </mxCell>
         <mxCell id="VdReUI53LrXX9qJrLmI8-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="VdReUI53LrXX9qJrLmI8-84" target="VdReUI53LrXX9qJrLmI8-91">
           <mxGeometry relative="1" as="geometry" />
