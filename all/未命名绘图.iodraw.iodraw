@@ -13,7 +13,7 @@
         <mxCell id="VdReUI53LrXX9qJrLmI8-3" value="硬件平台管理层" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="300" y="699" width="640" height="400" as="geometry" />
         </mxCell>
-        <mxCell id="VdReUI53LrXX9qJrLmI8-4" value="感知与定位层" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="VdReUI53LrXX9qJrLmI8-4" value="" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="300" y="246" width="640" height="174" as="geometry" />
         </mxCell>
         <mxCell id="VdReUI53LrXX9qJrLmI8-5" value="公网通信层" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
@@ -126,7 +126,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="VdReUI53LrXX9qJrLmI8-12" value="GPS模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="708" y="309" width="119" height="48" as="geometry" />
+          <mxGeometry x="770" y="309" width="119" height="48" as="geometry" />
         </mxCell>
         <mxCell id="VdReUI53LrXX9qJrLmI8-43" value="" style="curved=1;startArrow=none;endArrow=block;entryX=0;entryY=0.03;rounded=0;" edge="1" parent="1" source="VdReUI53LrXX9qJrLmI8-12" target="VdReUI53LrXX9qJrLmI8-6">
           <mxGeometry relative="1" as="geometry">
@@ -137,6 +137,9 @@
         </mxCell>
         <mxCell id="VdReUI53LrXX9qJrLmI8-6" value="远程交互与监控层" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="964" y="246" width="336" height="1064" as="geometry" />
+        </mxCell>
+        <mxCell id="VdReUI53LrXX9qJrLmI8-44" value="GPS模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="500" y="350" width="119" height="48" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
