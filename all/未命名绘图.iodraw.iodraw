@@ -14,7 +14,7 @@
           <mxGeometry x="724" y="724" width="398" height="400" as="geometry" />
         </mxCell>
         <mxCell id="VdReUI53LrXX9qJrLmI8-4" value="感知与定位层" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="724" y="190" width="363" height="116" as="geometry" />
+          <mxGeometry x="724" y="256" width="363" height="116" as="geometry" />
         </mxCell>
         <mxCell id="VdReUI53LrXX9qJrLmI8-5" value="公网通信层" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1193" y="372" width="448" height="116" as="geometry" />
@@ -38,10 +38,10 @@
           <mxGeometry x="1449" y="406" width="151" height="48" as="geometry" />
         </mxCell>
         <mxCell id="VdReUI53LrXX9qJrLmI8-12" value="GPS模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="750" y="208" width="119" height="48" as="geometry" />
+          <mxGeometry x="750" y="272" width="119" height="48" as="geometry" />
         </mxCell>
         <mxCell id="VdReUI53LrXX9qJrLmI8-13" value="激光雷达" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="916" y="224" width="124" height="48" as="geometry" />
+          <mxGeometry x="950" y="290" width="124" height="48" as="geometry" />
         </mxCell>
         <mxCell id="VdReUI53LrXX9qJrLmI8-14" value="嵌入式Linux&#xa;工控机" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="857" y="749" width="147" height="66" as="geometry" />
