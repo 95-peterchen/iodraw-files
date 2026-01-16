@@ -29,7 +29,7 @@
           <mxGeometry x="1353.5" y="1101" width="149" height="48" as="geometry" />
         </mxCell>
         <mxCell id="VdReUI53LrXX9qJrLmI8-16" value="MAVLink V2协议" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="380" y="923" width="174" height="48" as="geometry" />
+          <mxGeometry x="368.5" y="917" width="174" height="48" as="geometry" />
         </mxCell>
         <mxCell id="VdReUI53LrXX9qJrLmI8-17" value="ROS核心&#xa;模块化调度与数据融合" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="512.5" y="600" width="220" height="66" as="geometry" />
@@ -110,7 +110,7 @@
           <mxGeometry x="1277" y="690" width="156" height="66" as="geometry" />
         </mxCell>
         <mxCell id="VdReUI53LrXX9qJrLmI8-84" value="SDK" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="732.5" y="850" width="174" height="48" as="geometry" />
+          <mxGeometry x="732.5" y="831" width="174" height="48" as="geometry" />
         </mxCell>
         <mxCell id="VdReUI53LrXX9qJrLmI8-85" value="栅格避障" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="480" y="492" width="134" height="42" as="geometry" />
