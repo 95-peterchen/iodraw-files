@@ -120,6 +120,9 @@
         <mxCell id="VdReUI53LrXX9qJrLmI8-54" value="FRQ服务器" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1356" y="390" width="156" height="66" as="geometry" />
         </mxCell>
+        <mxCell id="VdReUI53LrXX9qJrLmI8-55" value="Rustdesk域名服务器" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1356" y="470" width="156" height="66" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
