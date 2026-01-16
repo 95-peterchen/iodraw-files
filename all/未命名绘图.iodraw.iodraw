@@ -141,6 +141,9 @@
         <mxCell id="VdReUI53LrXX9qJrLmI8-44" value="GPS模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="500" y="350" width="119" height="48" as="geometry" />
         </mxCell>
+        <mxCell id="VdReUI53LrXX9qJrLmI8-45" value="感知与定位层" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1240" y="640" width="110" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
