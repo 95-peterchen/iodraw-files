@@ -32,7 +32,7 @@
           <mxGeometry x="380" y="923" width="174" height="48" as="geometry" />
         </mxCell>
         <mxCell id="VdReUI53LrXX9qJrLmI8-17" value="ROS核心&#xa;模块化调度与数据融合" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="510" y="565" width="220" height="66" as="geometry" />
+          <mxGeometry x="512.5" y="600" width="220" height="66" as="geometry" />
         </mxCell>
         <mxCell id="VdReUI53LrXX9qJrLmI8-18" value="路径规划" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="347" y="492" width="134" height="42" as="geometry" />
@@ -101,7 +101,7 @@
           <mxGeometry x="527.5" y="941" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VdReUI53LrXX9qJrLmI8-61" value="硬件平台管理层" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="535" y="680" width="165" height="30" as="geometry" />
+          <mxGeometry x="542.5" y="768" width="165" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VdReUI53LrXX9qJrLmI8-63" value="QT控制终端" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1277" y="1140" width="156" height="66" as="geometry" />
@@ -125,7 +125,7 @@
           <mxGeometry x="770" y="1012" width="116" height="66" as="geometry" />
         </mxCell>
         <mxCell id="VdReUI53LrXX9qJrLmI8-92" value="mavros" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="380" y="750" width="174" height="48" as="geometry" />
+          <mxGeometry x="368.5" y="831" width="174" height="48" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
