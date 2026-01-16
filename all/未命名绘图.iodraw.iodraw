@@ -115,7 +115,7 @@
           <mxGeometry x="1356" y="1000" width="156" height="66" as="geometry" />
         </mxCell>
         <mxCell id="VdReUI53LrXX9qJrLmI8-64" value="后端处理单元" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1356" y="1090" width="156" height="66" as="geometry" />
+          <mxGeometry x="1356" y="630" width="156" height="66" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
