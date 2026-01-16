@@ -41,7 +41,7 @@
           <mxGeometry x="344" y="1012" width="140" height="66" as="geometry" />
         </mxCell>
         <mxCell id="VdReUI53LrXX9qJrLmI8-20" value="四旋翼无人机&#xa;PX4飞控" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="737.5" y="1000" width="116" height="66" as="geometry" />
+          <mxGeometry x="562.5" y="1012" width="116" height="66" as="geometry" />
         </mxCell>
         <mxCell id="VdReUI53LrXX9qJrLmI8-12" value="微控开关" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="620" y="300" width="120" height="48" as="geometry" />
@@ -120,6 +120,9 @@
         </mxCell>
         <mxCell id="VdReUI53LrXX9qJrLmI8-87" value="流程控制" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="748" y="492" width="134" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="VdReUI53LrXX9qJrLmI8-91" value="机械臂控制板" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="770" y="1012" width="116" height="66" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
