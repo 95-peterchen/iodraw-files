@@ -37,9 +37,6 @@
         <mxCell id="VdReUI53LrXX9qJrLmI8-11" value="FRP内网穿透" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1449" y="406" width="151" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="VdReUI53LrXX9qJrLmI8-12" value="GPS模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="750" y="272" width="119" height="48" as="geometry" />
-        </mxCell>
         <mxCell id="VdReUI53LrXX9qJrLmI8-13" value="激光雷达" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="950" y="290" width="124" height="48" as="geometry" />
         </mxCell>
@@ -113,7 +110,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="VdReUI53LrXX9qJrLmI8-28" value="全局位置" style="curved=1;startArrow=none;endArrow=block;entryX=0;entryY=0.03;rounded=0;" edge="1" parent="1" target="VdReUI53LrXX9qJrLmI8-17">
+        <mxCell id="VdReUI53LrXX9qJrLmI8-28" value="全局位置" style="curved=1;startArrow=none;endArrow=block;entryX=0;entryY=0.03;rounded=0;" edge="1" parent="1" source="VdReUI53LrXX9qJrLmI8-12" target="VdReUI53LrXX9qJrLmI8-17">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="688" y="524" />
@@ -191,6 +188,16 @@
               <mxPoint x="1033" y="1124" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="VdReUI53LrXX9qJrLmI8-40" value="" style="curved=1;startArrow=none;endArrow=block;entryX=0;entryY=0.03;rounded=0;" edge="1" parent="1" target="VdReUI53LrXX9qJrLmI8-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+            <mxPoint x="810" y="310" as="sourcePoint" />
+            <mxPoint x="780" y="532" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VdReUI53LrXX9qJrLmI8-12" value="GPS模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="738" y="290" width="119" height="48" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
