@@ -41,7 +41,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VdReUI53LrXX9qJrLmI8-17" value="ROS核心&#xa;模块化调度与数据融合" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="512.5" y="600" width="220" height="66" as="geometry" />
+          <mxGeometry x="510" y="600" width="225.5" height="66" as="geometry" />
         </mxCell>
         <mxCell id="VdReUI53LrXX9qJrLmI8-18" value="路径规划" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="351" y="498" width="134" height="42" as="geometry" />
@@ -143,7 +143,10 @@
           <mxGeometry x="380" y="831" width="174" height="48" as="geometry" />
         </mxCell>
         <mxCell id="VdReUI53LrXX9qJrLmI8-120" value="swar通讯" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="732.5" y="610" width="197.5" height="42" as="geometry" />
+          <mxGeometry x="735.5" y="610" width="197.5" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="VdReUI53LrXX9qJrLmI8-123" value="swar通讯" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1035" y="1047" width="197.5" height="42" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
