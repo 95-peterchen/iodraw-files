@@ -41,7 +41,7 @@
           <mxGeometry x="344" y="1171" width="140" height="66" as="geometry" />
         </mxCell>
         <mxCell id="VdReUI53LrXX9qJrLmI8-20" value="四旋翼无人机&#xa;PX4飞控" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="690" y="1169" width="156" height="66" as="geometry" />
+          <mxGeometry x="760" y="1169" width="156" height="66" as="geometry" />
         </mxCell>
         <mxCell id="VdReUI53LrXX9qJrLmI8-21" value="STM32微控制器&#xa;防碰撞传感器" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="506" y="1169" width="169" height="66" as="geometry" />
