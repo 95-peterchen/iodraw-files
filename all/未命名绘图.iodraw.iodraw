@@ -58,13 +58,6 @@
         <mxCell id="VdReUI53LrXX9qJrLmI8-21" value="STM32微控制器&#xa;防碰撞传感器" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="55" y="1033" width="169" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="VdReUI53LrXX9qJrLmI8-22" value="视频流推送" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.13;entryY=0.01;rounded=0;" edge="1" parent="1" source="VdReUI53LrXX9qJrLmI8-7" target="VdReUI53LrXX9qJrLmI8-9">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1421" y="183" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="VdReUI53LrXX9qJrLmI8-23" value="远程桌面访问" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.88;entryY=0.01;rounded=0;" edge="1" parent="1" source="VdReUI53LrXX9qJrLmI8-8" target="VdReUI53LrXX9qJrLmI8-9">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -76,6 +69,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1385" y="299" />
+              <mxPoint x="1330" y="320" />
               <mxPoint x="1385" y="372" />
             </Array>
           </mxGeometry>
@@ -145,6 +139,16 @@
         </mxCell>
         <mxCell id="VdReUI53LrXX9qJrLmI8-11" value="FRP内网穿透" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="964" y="610" width="151" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="VdReUI53LrXX9qJrLmI8-22" value="视频流推送" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.13;entryY=0.01;rounded=0;" edge="1" parent="1" source="VdReUI53LrXX9qJrLmI8-7" target="VdReUI53LrXX9qJrLmI8-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1421" y="183" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VdReUI53LrXX9qJrLmI8-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="VdReUI53LrXX9qJrLmI8-7" target="VdReUI53LrXX9qJrLmI8-7">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
