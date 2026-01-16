@@ -19,9 +19,6 @@
         <mxCell id="VdReUI53LrXX9qJrLmI8-5" value="公网通信层" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="300" y="100" width="1000" height="116" as="geometry" />
         </mxCell>
-        <mxCell id="VdReUI53LrXX9qJrLmI8-10" value="ZMQ消息中间件" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1750" y="535.5" width="171" height="48" as="geometry" />
-        </mxCell>
         <mxCell id="VdReUI53LrXX9qJrLmI8-13" value="激光雷达" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="340" y="300" width="124" height="48" as="geometry" />
         </mxCell>
@@ -54,14 +51,6 @@
             <Array as="points">
               <mxPoint x="1379" y="488" />
               <mxPoint x="1001" y="524" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="VdReUI53LrXX9qJrLmI8-26" value="状态数据" style="curved=1;startArrow=none;endArrow=block;exitX=0.91;exitY=0;entryX=0.64;entryY=1;rounded=0;" edge="1" parent="1" source="VdReUI53LrXX9qJrLmI8-17" target="VdReUI53LrXX9qJrLmI8-11">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1119" y="524" />
-              <mxPoint x="1576" y="488" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -118,6 +107,9 @@
         </mxCell>
         <mxCell id="VdReUI53LrXX9qJrLmI8-9" value="远程控制终端&#xa;Qt开发界面" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1060" y="519" width="156" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="VdReUI53LrXX9qJrLmI8-10" value="ZMQ消息中间件" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1577" y="537" width="171" height="48" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
