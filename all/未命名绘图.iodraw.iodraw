@@ -17,7 +17,7 @@
           <mxGeometry x="300" y="246" width="640" height="174" as="geometry" />
         </mxCell>
         <mxCell id="VdReUI53LrXX9qJrLmI8-5" value="公网通信层" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="970" y="120" width="1000" height="1190" as="geometry" />
+          <mxGeometry x="970" y="250" width="220" height="1060" as="geometry" />
         </mxCell>
         <mxCell id="VdReUI53LrXX9qJrLmI8-13" value="激光雷达" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="340" y="300" width="124" height="48" as="geometry" />
@@ -112,7 +112,7 @@
           <mxGeometry x="970" y="699" width="171" height="48" as="geometry" />
         </mxCell>
         <mxCell id="VdReUI53LrXX9qJrLmI8-51" value="远程交互与监控层" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1450" y="240" width="336" height="480" as="geometry" />
+          <mxGeometry x="1260" y="219" width="336" height="480" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
