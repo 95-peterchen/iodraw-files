@@ -44,7 +44,7 @@
           <mxGeometry x="800" y="1169" width="116" height="66" as="geometry" />
         </mxCell>
         <mxCell id="VdReUI53LrXX9qJrLmI8-21" value="STM32微控制器&#xa;防碰撞传感器" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="660" y="1169" width="119" height="66" as="geometry" />
+          <mxGeometry x="501" y="1169" width="119" height="66" as="geometry" />
         </mxCell>
         <mxCell id="VdReUI53LrXX9qJrLmI8-29" value="点云数据" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="VdReUI53LrXX9qJrLmI8-13" target="VdReUI53LrXX9qJrLmI8-18">
           <mxGeometry relative="1" as="geometry">
@@ -116,6 +116,9 @@
         </mxCell>
         <mxCell id="VdReUI53LrXX9qJrLmI8-64" value="后端处理单元" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1277" y="701" width="156" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="VdReUI53LrXX9qJrLmI8-67" value="轮式履带车&#xa;APM控制器" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="354" y="1181" width="140" height="66" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
