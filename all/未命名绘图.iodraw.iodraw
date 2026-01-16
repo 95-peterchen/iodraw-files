@@ -28,6 +28,12 @@
         <mxCell id="VdReUI53LrXX9qJrLmI8-15" value="MAVROS桥接" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1353.5" y="1101" width="149" height="48" as="geometry" />
         </mxCell>
+        <mxCell id="VdReUI53LrXX9qJrLmI8-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VdReUI53LrXX9qJrLmI8-16" target="VdReUI53LrXX9qJrLmI8-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VdReUI53LrXX9qJrLmI8-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="VdReUI53LrXX9qJrLmI8-16" target="VdReUI53LrXX9qJrLmI8-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="VdReUI53LrXX9qJrLmI8-16" value="MAVLink V2协议" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="368.5" y="917" width="174" height="48" as="geometry" />
         </mxCell>
@@ -108,6 +114,9 @@
         </mxCell>
         <mxCell id="VdReUI53LrXX9qJrLmI8-64" value="后端处理单元" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1277" y="690" width="156" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="VdReUI53LrXX9qJrLmI8-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="VdReUI53LrXX9qJrLmI8-84" target="VdReUI53LrXX9qJrLmI8-91">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VdReUI53LrXX9qJrLmI8-84" value="SDK" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="732.5" y="831" width="174" height="48" as="geometry" />
