@@ -24,9 +24,6 @@
         <mxCell id="VdReUI53LrXX9qJrLmI8-5" value="公网通信层" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1770" y="80" width="448" height="116" as="geometry" />
         </mxCell>
-        <mxCell id="VdReUI53LrXX9qJrLmI8-6" value="远程交互与监控层" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="978" y="320" width="450" height="279" as="geometry" />
-        </mxCell>
         <mxCell id="VdReUI53LrXX9qJrLmI8-7" value="视频直播服务&#xa;SRS流媒体" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1343" y="45" width="156" height="66" as="geometry" />
         </mxCell>
@@ -115,7 +112,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="VdReUI53LrXX9qJrLmI8-28" value="全局位置" style="curved=1;startArrow=none;endArrow=block;entryX=0;entryY=0.03;rounded=0;" edge="1" parent="1" source="VdReUI53LrXX9qJrLmI8-12" target="VdReUI53LrXX9qJrLmI8-17">
+        <mxCell id="VdReUI53LrXX9qJrLmI8-28" value="全局位置" style="curved=1;startArrow=none;endArrow=block;entryX=0;entryY=0.03;rounded=0;" edge="1" parent="1" source="VdReUI53LrXX9qJrLmI8-6" target="VdReUI53LrXX9qJrLmI8-17">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="688" y="524" />
@@ -150,6 +147,16 @@
         </mxCell>
         <mxCell id="VdReUI53LrXX9qJrLmI8-12" value="GPS模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1074" y="180" width="119" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="VdReUI53LrXX9qJrLmI8-43" value="" style="curved=1;startArrow=none;endArrow=block;entryX=0;entryY=0.03;rounded=0;" edge="1" parent="1" source="VdReUI53LrXX9qJrLmI8-12" target="VdReUI53LrXX9qJrLmI8-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+            <mxPoint x="1100" y="228" as="sourcePoint" />
+            <mxPoint x="1414" y="732" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VdReUI53LrXX9qJrLmI8-6" value="远程交互与监控层" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="964" y="246" width="450" height="1074" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
