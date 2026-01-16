@@ -8,7 +8,7 @@
           <mxGeometry x="300" y="1099" width="640" height="210" as="geometry" />
         </mxCell>
         <mxCell id="VdReUI53LrXX9qJrLmI8-2" value="智能体控制与协同层" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="300" y="390" width="650" height="279" as="geometry" />
+          <mxGeometry x="300" y="430" width="640" height="279" as="geometry" />
         </mxCell>
         <mxCell id="VdReUI53LrXX9qJrLmI8-3" value="硬件平台管理层" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="300" y="699" width="640" height="400" as="geometry" />
