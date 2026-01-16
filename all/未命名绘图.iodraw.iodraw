@@ -110,7 +110,7 @@
           <mxGeometry x="1277" y="690" width="156" height="66" as="geometry" />
         </mxCell>
         <mxCell id="VdReUI53LrXX9qJrLmI8-82" value="路径规划" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="378.5" y="490" width="172" height="66" as="geometry" />
+          <mxGeometry x="542.5" y="480" width="172" height="66" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
