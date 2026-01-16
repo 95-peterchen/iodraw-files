@@ -159,6 +159,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="VdReUI53LrXX9qJrLmI8-35" value="MAVLink指令" style="curved=1;startArrow=none;endArrow=block;exitX=0.12;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="VdReUI53LrXX9qJrLmI8-16" target="VdReUI53LrXX9qJrLmI8-19">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="770" y="1124" />
+              <mxPoint x="249" y="1160" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="VdReUI53LrXX9qJrLmI8-36" value="MAVLink指令" style="curved=1;startArrow=none;endArrow=block;exitX=0.16;exitY=1;entryX=0.05;entryY=0;rounded=0;" edge="1" parent="1" source="VdReUI53LrXX9qJrLmI8-16" target="VdReUI53LrXX9qJrLmI8-20">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
