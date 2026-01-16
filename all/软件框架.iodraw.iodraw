@@ -115,7 +115,7 @@
         <mxCell id="VdReUI53LrXX9qJrLmI8-63" value="QT控制终端" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1131" y="1035" width="156" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="VdReUI53LrXX9qJrLmI8-64" value="后端处理单元" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="VdReUI53LrXX9qJrLmI8-64" value="后端处理服务器" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1131" y="676" width="156" height="66" as="geometry" />
         </mxCell>
         <mxCell id="VdReUI53LrXX9qJrLmI8-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="VdReUI53LrXX9qJrLmI8-84" target="VdReUI53LrXX9qJrLmI8-91">
