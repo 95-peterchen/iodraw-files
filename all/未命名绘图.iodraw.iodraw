@@ -11,7 +11,7 @@
           <mxGeometry x="1240" y="560" width="541" height="279" as="geometry" />
         </mxCell>
         <mxCell id="VdReUI53LrXX9qJrLmI8-3" value="硬件平台管理层" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="724" y="724" width="398" height="400" as="geometry" />
+          <mxGeometry x="1240" y="866" width="540" height="400" as="geometry" />
         </mxCell>
         <mxCell id="VdReUI53LrXX9qJrLmI8-4" value="感知与定位层" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="724" y="256" width="363" height="116" as="geometry" />
