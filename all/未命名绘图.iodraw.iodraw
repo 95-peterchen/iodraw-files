@@ -89,10 +89,10 @@
           <mxGeometry x="1295" y="231" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VdReUI53LrXX9qJrLmI8-11" value="FRP内网穿透" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="970" y="730" width="151" height="48" as="geometry" />
+          <mxGeometry x="950" y="756" width="151" height="344" as="geometry" />
         </mxCell>
         <mxCell id="VdReUI53LrXX9qJrLmI8-10" value="ZMQ消息中间件" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="965" y="311" width="55" height="257" as="geometry" />
+          <mxGeometry x="957.5" y="311" width="55" height="257" as="geometry" />
         </mxCell>
         <mxCell id="VdReUI53LrXX9qJrLmI8-53" value="&#xa;SRS服务器" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1277" y="311" width="156" height="66" as="geometry" />
