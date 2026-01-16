@@ -19,12 +19,6 @@
         <mxCell id="VdReUI53LrXX9qJrLmI8-5" value="公网通信层" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="300" y="100" width="1000" height="116" as="geometry" />
         </mxCell>
-        <mxCell id="VdReUI53LrXX9qJrLmI8-7" value="视频直播服务&#xa;SRS流媒体" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1320" y="310" width="156" height="66" as="geometry" />
-        </mxCell>
-        <mxCell id="VdReUI53LrXX9qJrLmI8-8" value="远程桌面服务&#xa;RustDesk" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1549" y="45" width="156" height="66" as="geometry" />
-        </mxCell>
         <mxCell id="VdReUI53LrXX9qJrLmI8-9" value="远程控制终端&#xa;Qt开发界面" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1446" y="208" width="156" height="66" as="geometry" />
         </mxCell>
@@ -149,6 +143,12 @@
         </mxCell>
         <mxCell id="VdReUI53LrXX9qJrLmI8-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="VdReUI53LrXX9qJrLmI8-7" target="VdReUI53LrXX9qJrLmI8-7">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VdReUI53LrXX9qJrLmI8-7" value="视频直播服务&#xa;SRS流媒体" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="310" width="156" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="VdReUI53LrXX9qJrLmI8-8" value="远程桌面服务&#xa;RustDesk" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1549" y="142" width="156" height="66" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
