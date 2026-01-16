@@ -118,8 +118,8 @@
         <mxCell id="VdReUI53LrXX9qJrLmI8-86" value="数据采集" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="614" y="492" width="134" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="VdReUI53LrXX9qJrLmI8-87" value="数据采集" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="624" y="502" width="134" height="42" as="geometry" />
+        <mxCell id="VdReUI53LrXX9qJrLmI8-87" value="流程控制" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="748" y="492" width="134" height="42" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
