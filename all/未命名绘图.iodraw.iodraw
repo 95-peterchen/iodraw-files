@@ -73,7 +73,7 @@
           <mxGeometry x="1277" y="940" width="156" height="66" as="geometry" />
         </mxCell>
         <mxCell id="VdReUI53LrXX9qJrLmI8-8" value="远程桌面服务&#xa;RustDesk" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1277" y="1153" width="156" height="66" as="geometry" />
+          <mxGeometry x="1277" y="1035" width="156" height="66" as="geometry" />
         </mxCell>
         <mxCell id="VdReUI53LrXX9qJrLmI8-9" value="远程控制终端&#xa;Qt开发界面" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1271" y="293" width="156" height="66" as="geometry" />
@@ -112,7 +112,7 @@
           <mxGeometry x="517.5" y="700" width="165" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VdReUI53LrXX9qJrLmI8-63" value="QT控制终端" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1277" y="1241" width="156" height="66" as="geometry" />
+          <mxGeometry x="1277" y="1140" width="156" height="66" as="geometry" />
         </mxCell>
         <mxCell id="VdReUI53LrXX9qJrLmI8-64" value="后端处理单元" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1277" y="690" width="156" height="66" as="geometry" />
