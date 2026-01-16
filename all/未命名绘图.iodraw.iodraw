@@ -46,24 +46,9 @@
         <mxCell id="VdReUI53LrXX9qJrLmI8-21" value="STM32微控制器&#xa;防碰撞传感器" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="55" y="1033" width="169" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="VdReUI53LrXX9qJrLmI8-25" value="跨网ROS话题转发" style="curved=1;startArrow=none;endArrow=block;exitX=0.1;exitY=1;entryX=0.65;entryY=0;rounded=0;" edge="1" parent="1" source="VdReUI53LrXX9qJrLmI8-11" target="VdReUI53LrXX9qJrLmI8-17">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1379" y="488" />
-              <mxPoint x="1001" y="524" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="VdReUI53LrXX9qJrLmI8-29" value="点云数据" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="VdReUI53LrXX9qJrLmI8-13" target="VdReUI53LrXX9qJrLmI8-18">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="VdReUI53LrXX9qJrLmI8-30" value="定位与避障数据" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.35;entryY=0;rounded=0;" edge="1" parent="1" source="VdReUI53LrXX9qJrLmI8-18" target="VdReUI53LrXX9qJrLmI8-17">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="859" y="524" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="VdReUI53LrXX9qJrLmI8-31" value="高执行反馈命令" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="VdReUI53LrXX9qJrLmI8-17" target="VdReUI53LrXX9qJrLmI8-14">
