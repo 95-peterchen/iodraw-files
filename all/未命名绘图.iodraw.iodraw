@@ -29,7 +29,7 @@
           <mxGeometry x="1353.5" y="1101" width="149" height="48" as="geometry" />
         </mxCell>
         <mxCell id="VdReUI53LrXX9qJrLmI8-16" value="MAVLink V2协议" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1349" y="1171" width="174" height="48" as="geometry" />
+          <mxGeometry x="532" y="917" width="174" height="48" as="geometry" />
         </mxCell>
         <mxCell id="VdReUI53LrXX9qJrLmI8-17" value="ROS核心&#xa;模块化调度与数据融合" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="520" y="780" width="220" height="66" as="geometry" />
