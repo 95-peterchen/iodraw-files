@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="VdReUI53LrXX9qJrLmI8-1" value="异构硬件执行层" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="20" y="1008" width="684" height="279" as="geometry" />
+          <mxGeometry x="540" y="1169" width="684" height="279" as="geometry" />
         </mxCell>
         <mxCell id="VdReUI53LrXX9qJrLmI8-2" value="智能体控制与协同层" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="632" y="372" width="541" height="279" as="geometry" />
@@ -62,7 +62,7 @@
           <mxGeometry x="179" y="1196" width="140" height="66" as="geometry" />
         </mxCell>
         <mxCell id="VdReUI53LrXX9qJrLmI8-20" value="四旋翼无人机&#xa;PX4飞控" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="434" y="1196" width="156" height="66" as="geometry" />
+          <mxGeometry x="980" y="1240" width="156" height="66" as="geometry" />
         </mxCell>
         <mxCell id="VdReUI53LrXX9qJrLmI8-21" value="STM32微控制器&#xa;防碰撞传感器" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="55" y="1033" width="169" height="66" as="geometry" />
