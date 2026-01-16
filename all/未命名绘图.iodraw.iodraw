@@ -44,7 +44,7 @@
           <mxGeometry x="1430" y="960" width="147" height="66" as="geometry" />
         </mxCell>
         <mxCell id="VdReUI53LrXX9qJrLmI8-15" value="MAVROS桥接" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="759" y="887" width="149" height="48" as="geometry" />
+          <mxGeometry x="1420" y="1130" width="149" height="48" as="geometry" />
         </mxCell>
         <mxCell id="VdReUI53LrXX9qJrLmI8-16" value="MAVLink V2协议" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="870" y="1060" width="174" height="48" as="geometry" />
@@ -198,6 +198,9 @@
         </mxCell>
         <mxCell id="VdReUI53LrXX9qJrLmI8-12" value="GPS模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="738" y="290" width="119" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="VdReUI53LrXX9qJrLmI8-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.615;entryY=0.792;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="VdReUI53LrXX9qJrLmI8-15" target="VdReUI53LrXX9qJrLmI8-15">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
