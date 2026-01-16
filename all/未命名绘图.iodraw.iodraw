@@ -145,9 +145,6 @@
         <mxCell id="VdReUI53LrXX9qJrLmI8-120" value="swar通讯" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="732.5" y="610" width="134" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="VdReUI53LrXX9qJrLmI8-122" value="重定位" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="431" y="512" width="134" height="42" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
