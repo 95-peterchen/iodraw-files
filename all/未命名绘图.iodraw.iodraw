@@ -7,7 +7,7 @@
         <mxCell id="VdReUI53LrXX9qJrLmI8-1" value="异构硬件执行层" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="300" y="1099" width="640" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="VdReUI53LrXX9qJrLmI8-2" value="智能体控制与协同层" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="VdReUI53LrXX9qJrLmI8-2" value="" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="300" y="420" width="640" height="279" as="geometry" />
         </mxCell>
         <mxCell id="VdReUI53LrXX9qJrLmI8-3" value="硬件平台管理层" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
@@ -139,6 +139,12 @@
         </mxCell>
         <mxCell id="VdReUI53LrXX9qJrLmI8-46" value="里程计" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="760" y="300" width="119" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="VdReUI53LrXX9qJrLmI8-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VdReUI53LrXX9qJrLmI8-48" target="VdReUI53LrXX9qJrLmI8-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VdReUI53LrXX9qJrLmI8-48" value="智能体控制与协同层" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="590" y="440" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
