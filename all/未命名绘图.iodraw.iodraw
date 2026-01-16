@@ -50,7 +50,7 @@
           <mxGeometry x="1428" y="1160" width="174" height="48" as="geometry" />
         </mxCell>
         <mxCell id="VdReUI53LrXX9qJrLmI8-17" value="ROS核心&#xa;模块化调度与数据融合" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="780" y="530" width="220" height="66" as="geometry" />
+          <mxGeometry x="1414" y="750" width="220" height="66" as="geometry" />
         </mxCell>
         <mxCell id="VdReUI53LrXX9qJrLmI8-18" value="路径规划与避障&#xa;栅格地图算法" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="892" y="406" width="172" height="66" as="geometry" />
