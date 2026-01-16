@@ -106,10 +106,10 @@
           <mxGeometry x="1285" y="887" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VdReUI53LrXX9qJrLmI8-59" value="异构硬件执行层" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="537.5" y="940" width="180" height="30" as="geometry" />
+          <mxGeometry x="530" y="930" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VdReUI53LrXX9qJrLmI8-61" value="硬件平台管理层" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="517.5" y="700" width="165" height="30" as="geometry" />
+          <mxGeometry x="535" y="630" width="165" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VdReUI53LrXX9qJrLmI8-63" value="QT控制终端" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1277" y="1140" width="156" height="66" as="geometry" />
