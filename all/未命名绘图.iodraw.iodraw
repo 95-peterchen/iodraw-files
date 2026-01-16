@@ -126,14 +126,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="VdReUI53LrXX9qJrLmI8-12" value="微控开关" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="620" y="300" width="119" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="VdReUI53LrXX9qJrLmI8-43" value="" style="curved=1;startArrow=none;endArrow=block;entryX=0;entryY=0.03;rounded=0;" edge="1" parent="1" source="VdReUI53LrXX9qJrLmI8-46" target="VdReUI53LrXX9qJrLmI8-6">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-            <mxPoint x="1100" y="228" as="sourcePoint" />
-            <mxPoint x="1414" y="732" as="targetPoint" />
-          </mxGeometry>
+          <mxGeometry x="620" y="300" width="120" height="48" as="geometry" />
         </mxCell>
         <mxCell id="VdReUI53LrXX9qJrLmI8-6" value="远程交互与监控层" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="964" y="246" width="336" height="1064" as="geometry" />
@@ -143,13 +136,6 @@
         </mxCell>
         <mxCell id="VdReUI53LrXX9qJrLmI8-45" value="感知与定位层" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="565" y="250" width="110" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="VdReUI53LrXX9qJrLmI8-47" value="" style="curved=1;startArrow=none;endArrow=block;entryX=0;entryY=0.03;rounded=0;" edge="1" parent="1" source="VdReUI53LrXX9qJrLmI8-12" target="VdReUI53LrXX9qJrLmI8-46">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-            <mxPoint x="729" y="315" as="sourcePoint" />
-            <mxPoint x="964" y="278" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="VdReUI53LrXX9qJrLmI8-46" value="微控开关" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="770" y="300" width="119" height="48" as="geometry" />
