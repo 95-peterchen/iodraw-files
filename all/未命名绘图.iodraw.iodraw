@@ -123,6 +123,9 @@
         <mxCell id="VdReUI53LrXX9qJrLmI8-78" value="无人车" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="300" y="1149" width="140" height="111" as="geometry" />
         </mxCell>
+        <mxCell id="VdReUI53LrXX9qJrLmI8-79" value="无人车" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="790" y="1149" width="140" height="111" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
