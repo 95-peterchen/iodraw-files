@@ -55,7 +55,7 @@
         <mxCell id="VdReUI53LrXX9qJrLmI8-12" value="微控开关" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="620" y="300" width="120" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="VdReUI53LrXX9qJrLmI8-6" value="" style="whiteSpace=wrap;strokeWidth=2;fillColor=#FF0080;" vertex="1" parent="1">
+        <mxCell id="VdReUI53LrXX9qJrLmI8-6" value="" style="whiteSpace=wrap;strokeWidth=2;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="1035" y="808.5" width="336" height="311.5" as="geometry" />
         </mxCell>
         <mxCell id="VdReUI53LrXX9qJrLmI8-44" value="GPS模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
@@ -142,7 +142,7 @@
         <mxCell id="VdReUI53LrXX9qJrLmI8-92" value="Mavros桥梁" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="380" y="831" width="174" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="VdReUI53LrXX9qJrLmI8-120" value="swar通讯" style="whiteSpace=wrap;strokeWidth=2;fillColor=#009900;" vertex="1" parent="1">
+        <mxCell id="VdReUI53LrXX9qJrLmI8-120" value="swar通讯" style="whiteSpace=wrap;strokeWidth=2;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="735.5" y="610" width="197.5" height="42" as="geometry" />
         </mxCell>
         <mxCell id="VdReUI53LrXX9qJrLmI8-123" value="swar通讯" style="whiteSpace=wrap;strokeWidth=2;fillColor=#009900;" vertex="1" parent="1">
