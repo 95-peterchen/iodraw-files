@@ -38,13 +38,13 @@
           <mxGeometry x="360" y="490" width="172" height="66" as="geometry" />
         </mxCell>
         <mxCell id="VdReUI53LrXX9qJrLmI8-19" value="轮式履带车&#xa;APM控制器" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="400" y="1180" width="140" height="66" as="geometry" />
+          <mxGeometry x="344" y="1171" width="140" height="66" as="geometry" />
         </mxCell>
         <mxCell id="VdReUI53LrXX9qJrLmI8-20" value="四旋翼无人机&#xa;PX4飞控" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="690" y="1180" width="156" height="66" as="geometry" />
         </mxCell>
         <mxCell id="VdReUI53LrXX9qJrLmI8-21" value="STM32微控制器&#xa;防碰撞传感器" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="55" y="1033" width="169" height="66" as="geometry" />
+          <mxGeometry x="548.5" y="1180" width="169" height="66" as="geometry" />
         </mxCell>
         <mxCell id="VdReUI53LrXX9qJrLmI8-29" value="点云数据" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="VdReUI53LrXX9qJrLmI8-13" target="VdReUI53LrXX9qJrLmI8-18">
           <mxGeometry relative="1" as="geometry">
