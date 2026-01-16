@@ -46,6 +46,9 @@
         <mxCell id="VdReUI53LrXX9qJrLmI8-17" value="ROS核心&#xa;模块化调度与数据融合" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="512.5" y="600" width="220" height="66" as="geometry" />
         </mxCell>
+        <mxCell id="VdReUI53LrXX9qJrLmI8-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VdReUI53LrXX9qJrLmI8-18" target="VdReUI53LrXX9qJrLmI8-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="VdReUI53LrXX9qJrLmI8-18" value="路径规划" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="347" y="492" width="134" height="42" as="geometry" />
         </mxCell>
@@ -127,8 +130,14 @@
         <mxCell id="VdReUI53LrXX9qJrLmI8-84" value="SDK" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="732.5" y="831" width="174" height="48" as="geometry" />
         </mxCell>
+        <mxCell id="VdReUI53LrXX9qJrLmI8-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VdReUI53LrXX9qJrLmI8-85" target="VdReUI53LrXX9qJrLmI8-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="VdReUI53LrXX9qJrLmI8-85" value="栅格避障" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="480" y="492" width="134" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="VdReUI53LrXX9qJrLmI8-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="VdReUI53LrXX9qJrLmI8-86" target="VdReUI53LrXX9qJrLmI8-17">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VdReUI53LrXX9qJrLmI8-86" value="数据采集" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="614" y="492" width="134" height="42" as="geometry" />
