@@ -1,0 +1,103 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0" version="24.7.17">
+  <diagram name="第 1 页" id="ZlnuJx0gmPQXcKdhuCem">
+    <mxGraphModel dx="1290" dy="569" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="lDNrWA5xyrdzjAftPQpI-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gSUDe6xul8y2Xgtnab_F-1" target="lDNrWA5xyrdzjAftPQpI-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gSUDe6xul8y2Xgtnab_F-1" value="任务开始" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="170" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lDNrWA5xyrdzjAftPQpI-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="180" width="260" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="lDNrWA5xyrdzjAftPQpI-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="lDNrWA5xyrdzjAftPQpI-5" target="lDNrWA5xyrdzjAftPQpI-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lDNrWA5xyrdzjAftPQpI-5" value="无人机进入自动巡航模式" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="220" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lDNrWA5xyrdzjAftPQpI-6" value="执行预设轨迹，并同步数据记录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="300" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lDNrWA5xyrdzjAftPQpI-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="470" width="630" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="lDNrWA5xyrdzjAftPQpI-10" value="无人车主导" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="364" y="480" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lDNrWA5xyrdzjAftPQpI-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="lDNrWA5xyrdzjAftPQpI-11" target="lDNrWA5xyrdzjAftPQpI-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lDNrWA5xyrdzjAftPQpI-11" value="载具架打开" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lDNrWA5xyrdzjAftPQpI-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="lDNrWA5xyrdzjAftPQpI-6" target="lDNrWA5xyrdzjAftPQpI-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lDNrWA5xyrdzjAftPQpI-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="lDNrWA5xyrdzjAftPQpI-13" target="lDNrWA5xyrdzjAftPQpI-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lDNrWA5xyrdzjAftPQpI-13" value="无人车驶离载具" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lDNrWA5xyrdzjAftPQpI-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="lDNrWA5xyrdzjAftPQpI-14" target="lDNrWA5xyrdzjAftPQpI-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lDNrWA5xyrdzjAftPQpI-14" value="无人车进入全自动模式" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="157" y="585" width="149" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lDNrWA5xyrdzjAftPQpI-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="lDNrWA5xyrdzjAftPQpI-18" target="lDNrWA5xyrdzjAftPQpI-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lDNrWA5xyrdzjAftPQpI-18" value="执行地面轨迹" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="585" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lDNrWA5xyrdzjAftPQpI-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="lDNrWA5xyrdzjAftPQpI-21" target="lDNrWA5xyrdzjAftPQpI-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lDNrWA5xyrdzjAftPQpI-21" value="同步避障、拍照、记录数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="518" y="585" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lDNrWA5xyrdzjAftPQpI-23" value="无人车返回载具" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lDNrWA5xyrdzjAftPQpI-25" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="180" width="260" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="lDNrWA5xyrdzjAftPQpI-26" value="任务结束" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="538" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lDNrWA5xyrdzjAftPQpI-27" value="无人机主导" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="181.5" y="180" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lDNrWA5xyrdzjAftPQpI-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="lDNrWA5xyrdzjAftPQpI-4" target="lDNrWA5xyrdzjAftPQpI-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lDNrWA5xyrdzjAftPQpI-4" value="协调回收" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="548" y="180" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lDNrWA5xyrdzjAftPQpI-29" value="执行预设返程轨迹" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="220" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lDNrWA5xyrdzjAftPQpI-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="lDNrWA5xyrdzjAftPQpI-30" target="lDNrWA5xyrdzjAftPQpI-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lDNrWA5xyrdzjAftPQpI-30" value="无人机进入自动巡航模式" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="300" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lDNrWA5xyrdzjAftPQpI-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="lDNrWA5xyrdzjAftPQpI-32" target="lDNrWA5xyrdzjAftPQpI-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lDNrWA5xyrdzjAftPQpI-32" value="载具架关闭" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lDNrWA5xyrdzjAftPQpI-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="lDNrWA5xyrdzjAftPQpI-23" target="lDNrWA5xyrdzjAftPQpI-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
