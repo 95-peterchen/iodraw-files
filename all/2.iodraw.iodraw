@@ -13,19 +13,14 @@
         <mxCell id="Z9Rp0NCxMLn3ycOIIqZZ-2" value="无人机计算平台" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="445" y="130" width="142" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="Z9Rp0NCxMLn3ycOIIqZZ-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Z9Rp0NCxMLn3ycOIIqZZ-3">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="510" y="140" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="Z9Rp0NCxMLn3ycOIIqZZ-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Z9Rp0NCxMLn3ycOIIqZZ-3" target="Z9Rp0NCxMLn3ycOIIqZZ-2">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Z9Rp0NCxMLn3ycOIIqZZ-3" value="高清摄像头" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="360" y="20" width="140" height="48" as="geometry" />
         </mxCell>
         <mxCell id="Z9Rp0NCxMLn3ycOIIqZZ-5" value="后台数据中心" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="20" y="126" width="156" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="Z9Rp0NCxMLn3ycOIIqZZ-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Z9Rp0NCxMLn3ycOIIqZZ-6" target="Z9Rp0NCxMLn3ycOIIqZZ-2">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Z9Rp0NCxMLn3ycOIIqZZ-6" value="机载GPS" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="670" y="20" width="120" height="48" as="geometry" />
