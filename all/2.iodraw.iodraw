@@ -49,21 +49,6 @@
         <mxCell id="V2rUgVD0n56m5McN76Jz-21" value="机器人巡检决策" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="920" y="600" width="142" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="V2rUgVD0n56m5McN76Jz-23" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.45;exitY=0.01;entryX=0.6;entryY=1.01;rounded=0;" edge="1" parent="1" source="V2rUgVD0n56m5McN76Jz-9" target="V2rUgVD0n56m5McN76Jz-10">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="-515" y="971" />
-              <mxPoint x="-515" y="705" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="V2rUgVD0n56m5McN76Jz-24" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.18;exitY=1.01;entryX=0.38;entryY=0;rounded=0;" edge="1" parent="1" source="V2rUgVD0n56m5McN76Jz-10" target="V2rUgVD0n56m5McN76Jz-11">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="-683" y="705" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="V2rUgVD0n56m5McN76Jz-25" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.79;entryX=0.99;entryY=0;rounded=0;" edge="1" parent="1" source="V2rUgVD0n56m5McN76Jz-6" target="V2rUgVD0n56m5McN76Jz-21">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -88,40 +73,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="V2rUgVD0n56m5McN76Jz-28" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.57;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="V2rUgVD0n56m5McN76Jz-8" target="V2rUgVD0n56m5McN76Jz-10">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="-556" y="559" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="V2rUgVD0n56m5McN76Jz-30" value="全局路径" style="curved=1;startArrow=none;endArrow=block;exitX=0.36;exitY=1.01;entryX=0.57;entryY=0;rounded=0;" edge="1" parent="1" source="V2rUgVD0n56m5McN76Jz-10" target="V2rUgVD0n56m5McN76Jz-11">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="-609" y="705" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="V2rUgVD0n56m5McN76Jz-31" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.87;exitY=0.01;entryX=0.19;entryY=1.01;rounded=0;" edge="1" parent="1" source="V2rUgVD0n56m5McN76Jz-20" target="V2rUgVD0n56m5McN76Jz-5">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1083" y="971" />
               <mxPoint x="1083" y="290" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="V2rUgVD0n56m5McN76Jz-34" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.28;entryX=1;entryY=0.83;rounded=0;" edge="1" parent="1" source="V2rUgVD0n56m5McN76Jz-9" target="V2rUgVD0n56m5McN76Jz-10">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="-250" y="971" />
-              <mxPoint x="-250" y="705" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="V2rUgVD0n56m5McN76Jz-35" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.71;entryY=0;rounded=0;" edge="1" parent="1" source="V2rUgVD0n56m5McN76Jz-10" target="V2rUgVD0n56m5McN76Jz-11">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="-555" y="705" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -233,13 +189,6 @@
               <mxPoint x="1201" y="290" />
             </Array>
             <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="V2rUgVD0n56m5McN76Jz-52" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.57;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="V2rUgVD0n56m5McN76Jz-21" target="V2rUgVD0n56m5McN76Jz-8">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-            <mxPoint x="850" y="501" as="sourcePoint" />
-            <mxPoint x="-556" y="620" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="V2rUgVD0n56m5McN76Jz-8" value="激光SLAM环境感知系统" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
