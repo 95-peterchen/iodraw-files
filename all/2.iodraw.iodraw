@@ -106,8 +106,8 @@
         <mxCell id="Z9Rp0NCxMLn3ycOIIqZZ-38" value="数据" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="258" y="174" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Z9Rp0NCxMLn3ycOIIqZZ-45" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="210" y="190" width="60" height="30" as="geometry" />
+        <mxCell id="Z9Rp0NCxMLn3ycOIIqZZ-45" value="图片" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="211" y="118" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
