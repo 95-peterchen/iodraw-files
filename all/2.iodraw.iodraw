@@ -7,9 +7,6 @@
         <mxCell id="V2rUgVD0n56m5McN76Jz-1" value="环境感知与自主导航系统" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-750" y="595" width="792" height="486" as="geometry" />
         </mxCell>
-        <mxCell id="V2rUgVD0n56m5McN76Jz-2" value="地面无人车巡检单元" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-770" y="424" width="1570" height="682" as="geometry" />
-        </mxCell>
         <mxCell id="V2rUgVD0n56m5McN76Jz-3" value="底层驱动及传感器系统" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="330" y="160" width="558" height="486" as="geometry" />
         </mxCell>
