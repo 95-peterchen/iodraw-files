@@ -39,7 +39,7 @@
           <mxGeometry x="622" y="522" width="158" height="48" as="geometry" />
         </mxCell>
         <mxCell id="V2rUgVD0n56m5McN76Jz-12" value="激光雷达" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="221" y="800" width="94" height="48" as="geometry" />
+          <mxGeometry x="170.5" y="800" width="94" height="48" as="geometry" />
         </mxCell>
         <mxCell id="V2rUgVD0n56m5McN76Jz-13" value="IMU" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="385" y="800" width="56" height="48" as="geometry" />
