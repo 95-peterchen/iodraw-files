@@ -11,7 +11,7 @@
           <mxGeometry x="1267" y="326" width="158" height="48" as="geometry" />
         </mxCell>
         <mxCell id="V2rUgVD0n56m5McN76Jz-7" value="管理中心数据分析系统" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="1241" y="1156" width="190" height="48" as="geometry" />
+          <mxGeometry x="67" y="278" width="190" height="48" as="geometry" />
         </mxCell>
         <mxCell id="V2rUgVD0n56m5McN76Jz-8" value="激光SLAM环境感知系统" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="-480" y="862" width="195" height="48" as="geometry" />
@@ -50,7 +50,7 @@
           <mxGeometry x="77" y="620" width="110" height="48" as="geometry" />
         </mxCell>
         <mxCell id="V2rUgVD0n56m5McN76Jz-20" value="分布式WIFI通信系统" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="835" y="1007" width="173" height="48" as="geometry" />
+          <mxGeometry x="414" y="370" width="173" height="48" as="geometry" />
         </mxCell>
         <mxCell id="V2rUgVD0n56m5McN76Jz-21" value="机器人巡检决策" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="850" y="474" width="142" height="48" as="geometry" />
