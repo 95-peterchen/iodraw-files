@@ -23,7 +23,7 @@
           <mxGeometry x="950" y="500" width="158" height="48" as="geometry" />
         </mxCell>
         <mxCell id="V2rUgVD0n56m5McN76Jz-12" value="激光雷达" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="307" y="880" width="94" height="48" as="geometry" />
+          <mxGeometry x="180" y="900" width="94" height="48" as="geometry" />
         </mxCell>
         <mxCell id="V2rUgVD0n56m5McN76Jz-13" value="IMU" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="465" y="900" width="56" height="48" as="geometry" />
@@ -48,14 +48,6 @@
         </mxCell>
         <mxCell id="V2rUgVD0n56m5McN76Jz-21" value="机器人巡检决策" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="920" y="600" width="142" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="V2rUgVD0n56m5McN76Jz-42" value="路径规划数据" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.52;entryY=0;rounded=0;" edge="1" parent="1" source="V2rUgVD0n56m5McN76Jz-19" target="V2rUgVD0n56m5McN76Jz-18">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="90" y="710" />
-              <mxPoint x="132" y="705" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="V2rUgVD0n56m5McN76Jz-8" value="激光SLAM环境感知系统" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="-128" y="522" width="195" height="48" as="geometry" />
