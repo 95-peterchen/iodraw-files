@@ -17,7 +17,7 @@
           <mxGeometry x="-551" y="1007" width="94" height="48" as="geometry" />
         </mxCell>
         <mxCell id="V2rUgVD0n56m5McN76Jz-10" value="全局路径规划系统" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="370" y="510" width="158" height="48" as="geometry" />
+          <mxGeometry x="387.5" y="522" width="158" height="48" as="geometry" />
         </mxCell>
         <mxCell id="V2rUgVD0n56m5McN76Jz-11" value="局部路径规划系统" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="950" y="500" width="158" height="48" as="geometry" />
@@ -50,7 +50,7 @@
           <mxGeometry x="920" y="600" width="142" height="48" as="geometry" />
         </mxCell>
         <mxCell id="V2rUgVD0n56m5McN76Jz-8" value="激光SLAM环境感知系统" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="-128" y="522" width="195" height="48" as="geometry" />
+          <mxGeometry x="120" y="522" width="195" height="48" as="geometry" />
         </mxCell>
         <mxCell id="V2rUgVD0n56m5McN76Jz-19" value="空中机器人" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="100" y="720" width="110" height="48" as="geometry" />
