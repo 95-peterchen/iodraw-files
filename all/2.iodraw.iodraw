@@ -49,7 +49,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Z9Rp0NCxMLn3ycOIIqZZ-10" value="气压计" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="362" y="402" width="108" height="48" as="geometry" />
+          <mxGeometry x="368" y="402" width="108" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="Z9Rp0NCxMLn3ycOIIqZZ-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="Z9Rp0NCxMLn3ycOIIqZZ-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="520" y="330" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="Z9Rp0NCxMLn3ycOIIqZZ-11" value="高度计" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="520" y="402" width="108" height="48" as="geometry" />
