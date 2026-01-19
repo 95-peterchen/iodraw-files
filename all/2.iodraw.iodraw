@@ -75,39 +75,11 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="V2rUgVD0n56m5McN76Jz-40" value="全局定位数据" style="curved=1;startArrow=none;endArrow=block;exitX=0.76;exitY=-0.01;entryX=0.99;entryY=0.63;rounded=0;" edge="1" parent="1" source="V2rUgVD0n56m5McN76Jz-17" target="V2rUgVD0n56m5McN76Jz-18">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="561" y="825" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="V2rUgVD0n56m5McN76Jz-41" value="底盘驱动数据" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.99;entryY=0.4;rounded=0;" edge="1" parent="1" source="V2rUgVD0n56m5McN76Jz-15" target="V2rUgVD0n56m5McN76Jz-18">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="682" y="705" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="V2rUgVD0n56m5McN76Jz-42" value="路径规划数据" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.52;entryY=0;rounded=0;" edge="1" parent="1" source="V2rUgVD0n56m5McN76Jz-19" target="V2rUgVD0n56m5McN76Jz-18">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="90" y="710" />
               <mxPoint x="132" y="705" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="V2rUgVD0n56m5McN76Jz-43" value="传感器数据" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.72;entryX=0;entryY=0.26;rounded=0;" edge="1" parent="1" source="V2rUgVD0n56m5McN76Jz-10" target="V2rUgVD0n56m5McN76Jz-18">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="-104" y="705" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="V2rUgVD0n56m5McN76Jz-49" value="全局定位数据" style="curved=1;startArrow=none;endArrow=block;exitX=0.99;exitY=0.68;entryX=0.23;entryY=-0.01;rounded=0;" edge="1" parent="1" source="V2rUgVD0n56m5McN76Jz-18" target="V2rUgVD0n56m5McN76Jz-17">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="441" y="825" />
             </Array>
           </mxGeometry>
         </mxCell>
