@@ -49,32 +49,6 @@
         <mxCell id="V2rUgVD0n56m5McN76Jz-21" value="机器人巡检决策" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="920" y="600" width="142" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="V2rUgVD0n56m5McN76Jz-36" value="点云数据" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.99;entryY=0.18;rounded=0;" edge="1" parent="1" source="V2rUgVD0n56m5McN76Jz-12" target="V2rUgVD0n56m5McN76Jz-18">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="304" y="705" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="V2rUgVD0n56m5McN76Jz-37" value="IMU数据" style="curved=1;startArrow=none;endArrow=block;exitX=0.49;exitY=1.01;entryX=0.99;entryY=0.31;rounded=0;" edge="1" parent="1" source="V2rUgVD0n56m5McN76Jz-13" target="V2rUgVD0n56m5McN76Jz-18">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="429" y="705" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="V2rUgVD0n56m5McN76Jz-38" value="里程数据" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.99;entryY=0.36;rounded=0;" edge="1" parent="1" source="V2rUgVD0n56m5McN76Jz-14" target="V2rUgVD0n56m5McN76Jz-18">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="538" y="705" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="V2rUgVD0n56m5McN76Jz-39" value="图像数据" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="V2rUgVD0n56m5McN76Jz-16" target="V2rUgVD0n56m5McN76Jz-15">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="V2rUgVD0n56m5McN76Jz-42" value="路径规划数据" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.52;entryY=0;rounded=0;" edge="1" parent="1" source="V2rUgVD0n56m5McN76Jz-19" target="V2rUgVD0n56m5McN76Jz-18">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
