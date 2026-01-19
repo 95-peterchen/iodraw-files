@@ -104,6 +104,9 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="V2rUgVD0n56m5McN76Jz-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="V2rUgVD0n56m5McN76Jz-18" target="V2rUgVD0n56m5McN76Jz-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="V2rUgVD0n56m5McN76Jz-18" value="ROS通信" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="421.5" y="648" width="90" height="48" as="geometry" />
         </mxCell>
