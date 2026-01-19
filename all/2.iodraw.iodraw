@@ -25,9 +25,6 @@
         <mxCell id="Z9Rp0NCxMLn3ycOIIqZZ-7" value="机载电源" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="258" y="272" width="124" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="Z9Rp0NCxMLn3ycOIIqZZ-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Z9Rp0NCxMLn3ycOIIqZZ-8" target="Z9Rp0NCxMLn3ycOIIqZZ-2">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="Z9Rp0NCxMLn3ycOIIqZZ-8" value="无人机飞行平台" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="445" y="271" width="142" height="48" as="geometry" />
         </mxCell>
@@ -100,7 +97,7 @@
             <mxPoint x="530" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Z9Rp0NCxMLn3ycOIIqZZ-34" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="Z9Rp0NCxMLn3ycOIIqZZ-34" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="Z9Rp0NCxMLn3ycOIIqZZ-8" target="Z9Rp0NCxMLn3ycOIIqZZ-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="480" y="410" as="sourcePoint" />
             <mxPoint x="530" y="360" as="targetPoint" />
