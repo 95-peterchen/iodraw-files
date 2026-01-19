@@ -119,7 +119,7 @@
           <mxGeometry x="120" y="522" width="195" height="48" as="geometry" />
         </mxCell>
         <mxCell id="V2rUgVD0n56m5McN76Jz-19" value="空中机器人" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="100" y="720" width="110" height="48" as="geometry" />
+          <mxGeometry x="172" y="648" width="110" height="48" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
