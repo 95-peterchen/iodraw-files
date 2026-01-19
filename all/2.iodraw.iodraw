@@ -35,7 +35,7 @@
           <mxGeometry x="670" y="890" width="126" height="48" as="geometry" />
         </mxCell>
         <mxCell id="V2rUgVD0n56m5McN76Jz-16" value="摄像头" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="643" y="474" width="78" height="48" as="geometry" />
+          <mxGeometry x="860" y="890" width="78" height="48" as="geometry" />
         </mxCell>
         <mxCell id="V2rUgVD0n56m5McN76Jz-17" value="车载GPS" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="690" y="720" width="90" height="48" as="geometry" />
@@ -100,14 +100,6 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-556" y="559" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="V2rUgVD0n56m5McN76Jz-29" value="巡检决策" style="curved=1;startArrow=none;endArrow=block;exitX=0.41;exitY=1.01;entryX=0.42;entryY=0.01;rounded=0;" edge="1" parent="1" source="V2rUgVD0n56m5McN76Jz-21" target="V2rUgVD0n56m5McN76Jz-20">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="888" y="559" />
-              <mxPoint x="888" y="971" />
             </Array>
           </mxGeometry>
         </mxCell>
