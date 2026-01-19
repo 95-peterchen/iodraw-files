@@ -69,7 +69,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="V2rUgVD0n56m5McN76Jz-14" value="里程" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="460" y="800" width="62" height="48" as="geometry" />
+          <mxGeometry x="435.5" y="810" width="62" height="48" as="geometry" />
         </mxCell>
         <mxCell id="V2rUgVD0n56m5McN76Jz-15" value="底盘驱动系统" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="580" y="800" width="126" height="48" as="geometry" />
