@@ -22,8 +22,11 @@
         <mxCell id="Z9Rp0NCxMLn3ycOIIqZZ-6" value="机载GPS" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="400" y="20" width="120" height="48" as="geometry" />
         </mxCell>
+        <mxCell id="Z9Rp0NCxMLn3ycOIIqZZ-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="Z9Rp0NCxMLn3ycOIIqZZ-7" target="Z9Rp0NCxMLn3ycOIIqZZ-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Z9Rp0NCxMLn3ycOIIqZZ-7" value="机载电源" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="250" y="260" width="124" height="48" as="geometry" />
+          <mxGeometry x="258" y="282" width="124" height="48" as="geometry" />
         </mxCell>
         <mxCell id="Z9Rp0NCxMLn3ycOIIqZZ-8" value="无人机飞行平台" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="445" y="271" width="142" height="48" as="geometry" />
