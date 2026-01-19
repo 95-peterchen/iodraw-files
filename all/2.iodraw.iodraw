@@ -183,7 +183,7 @@
         <mxCell id="V2rUgVD0n56m5McN76Jz-19" value="空中机器人" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="162.5" y="648" width="110" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="V2rUgVD0n56m5McN76Jz-94" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="V2rUgVD0n56m5McN76Jz-94" value="后台管理系统" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="30" y="300" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
