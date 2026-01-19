@@ -129,7 +129,7 @@
         <mxCell id="V2rUgVD0n56m5McN76Jz-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="V2rUgVD0n56m5McN76Jz-19" target="V2rUgVD0n56m5McN76Jz-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="V2rUgVD0n56m5McN76Jz-74" value="路径规划" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="V2rUgVD0n56m5McN76Jz-73">
+        <mxCell id="V2rUgVD0n56m5McN76Jz-74" value="路径规划数据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="V2rUgVD0n56m5McN76Jz-73">
           <mxGeometry x="0.0537" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
