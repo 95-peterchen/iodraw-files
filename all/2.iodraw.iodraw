@@ -47,7 +47,7 @@
           <mxGeometry x="380" y="410" width="173" height="48" as="geometry" />
         </mxCell>
         <mxCell id="V2rUgVD0n56m5McN76Jz-21" value="机器人巡检决策" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="850" y="474" width="142" height="48" as="geometry" />
+          <mxGeometry x="920" y="600" width="142" height="48" as="geometry" />
         </mxCell>
         <mxCell id="V2rUgVD0n56m5McN76Jz-22" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.88;entryX=0;entryY=0.07;rounded=0;" edge="1" parent="1" source="V2rUgVD0n56m5McN76Jz-8" target="V2rUgVD0n56m5McN76Jz-9">
           <mxGeometry relative="1" as="geometry">
