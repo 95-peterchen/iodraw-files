@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Z9Rp0NCxMLn3ycOIIqZZ-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Z9Rp0NCxMLn3ycOIIqZZ-1" target="Z9Rp0NCxMLn3ycOIIqZZ-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Z9Rp0NCxMLn3ycOIIqZZ-1" value="激光雷达" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="200" y="30" width="124" height="48" as="geometry" />
         </mxCell>
@@ -39,13 +42,6 @@
         </mxCell>
         <mxCell id="Z9Rp0NCxMLn3ycOIIqZZ-12" value="地面机器人对接装置" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="690" y="271" width="204" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="Z9Rp0NCxMLn3ycOIIqZZ-13" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0;entryY=0.21;rounded=0;" edge="1" parent="1" source="Z9Rp0NCxMLn3ycOIIqZZ-1" target="Z9Rp0NCxMLn3ycOIIqZZ-2">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="98" y="93" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="Z9Rp0NCxMLn3ycOIIqZZ-19" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="Z9Rp0NCxMLn3ycOIIqZZ-8" target="Z9Rp0NCxMLn3ycOIIqZZ-9">
           <mxGeometry relative="1" as="geometry">
