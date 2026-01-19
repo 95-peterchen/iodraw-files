@@ -41,9 +41,9 @@
         <mxCell id="V2rUgVD0n56m5McN76Jz-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="V2rUgVD0n56m5McN76Jz-12" target="V2rUgVD0n56m5McN76Jz-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="V2rUgVD0n56m5McN76Jz-80" value="点云数据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="V2rUgVD0n56m5McN76Jz-79">
-          <mxGeometry x="-0.1756" y="-4" relative="1" as="geometry">
-            <mxPoint x="1" as="offset" />
+        <mxCell id="V2rUgVD0n56m5McN76Jz-82" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="V2rUgVD0n56m5McN76Jz-79">
+          <mxGeometry x="-0.8489" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="V2rUgVD0n56m5McN76Jz-12" value="激光雷达" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
