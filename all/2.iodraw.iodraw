@@ -17,7 +17,7 @@
           <mxGeometry x="20" y="126" width="156" height="48" as="geometry" />
         </mxCell>
         <mxCell id="Z9Rp0NCxMLn3ycOIIqZZ-6" value="机载GPS" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="587" y="20" width="120" height="48" as="geometry" />
+          <mxGeometry x="670" y="20" width="120" height="48" as="geometry" />
         </mxCell>
         <mxCell id="Z9Rp0NCxMLn3ycOIIqZZ-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Z9Rp0NCxMLn3ycOIIqZZ-7" target="Z9Rp0NCxMLn3ycOIIqZZ-8">
           <mxGeometry relative="1" as="geometry" />
@@ -44,20 +44,6 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="98" y="93" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Z9Rp0NCxMLn3ycOIIqZZ-14" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.3;entryY=0.01;rounded=0;" edge="1" parent="1" source="Z9Rp0NCxMLn3ycOIIqZZ-3" target="Z9Rp0NCxMLn3ycOIIqZZ-2">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="280" y="93" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Z9Rp0NCxMLn3ycOIIqZZ-17" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.93;entryY=0.01;rounded=0;" edge="1" parent="1" source="Z9Rp0NCxMLn3ycOIIqZZ-6" target="Z9Rp0NCxMLn3ycOIIqZZ-2">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="460" y="93" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -104,7 +90,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Z9Rp0NCxMLn3ycOIIqZZ-38" value="数据" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="257" y="159" width="60" height="30" as="geometry" />
+          <mxGeometry x="238" y="159" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Z9Rp0NCxMLn3ycOIIqZZ-45" value="图片" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="241" y="118" width="60" height="30" as="geometry" />
