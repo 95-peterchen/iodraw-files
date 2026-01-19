@@ -29,7 +29,7 @@
           <mxGeometry x="465" y="900" width="56" height="48" as="geometry" />
         </mxCell>
         <mxCell id="V2rUgVD0n56m5McN76Jz-14" value="里程" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="507" y="620" width="62" height="48" as="geometry" />
+          <mxGeometry x="570" y="890" width="62" height="48" as="geometry" />
         </mxCell>
         <mxCell id="V2rUgVD0n56m5McN76Jz-15" value="底盘驱动系统" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="619" y="620" width="126" height="48" as="geometry" />
@@ -38,7 +38,7 @@
           <mxGeometry x="643" y="474" width="78" height="48" as="geometry" />
         </mxCell>
         <mxCell id="V2rUgVD0n56m5McN76Jz-17" value="车载GPS" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="456" y="862" width="90" height="48" as="geometry" />
+          <mxGeometry x="690" y="720" width="90" height="48" as="geometry" />
         </mxCell>
         <mxCell id="V2rUgVD0n56m5McN76Jz-18" value="ROS通信" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="448" y="720" width="90" height="48" as="geometry" />
@@ -123,14 +123,6 @@
             <Array as="points">
               <mxPoint x="1083" y="971" />
               <mxPoint x="1083" y="290" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="V2rUgVD0n56m5McN76Jz-32" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.85;entryX=0.1;entryY=0;rounded=0;" edge="1" parent="1" source="V2rUgVD0n56m5McN76Jz-20" target="V2rUgVD0n56m5McN76Jz-7">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1181" y="1081" />
-              <mxPoint x="1181" y="1131" />
             </Array>
           </mxGeometry>
         </mxCell>
