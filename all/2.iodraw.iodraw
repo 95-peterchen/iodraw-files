@@ -4,9 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="V2rUgVD0n56m5McN76Jz-89" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="461" width="820" height="170" as="geometry" />
-        </mxCell>
         <mxCell id="V2rUgVD0n56m5McN76Jz-88" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="230" width="820" height="170" as="geometry" />
         </mxCell>
@@ -150,7 +147,7 @@
         <mxCell id="V2rUgVD0n56m5McN76Jz-20" value="分布式WIFI通信系统" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="380" y="410" width="173" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="V2rUgVD0n56m5McN76Jz-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="V2rUgVD0n56m5McN76Jz-89" target="V2rUgVD0n56m5McN76Jz-20">
+        <mxCell id="V2rUgVD0n56m5McN76Jz-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="V2rUgVD0n56m5McN76Jz-8" target="V2rUgVD0n56m5McN76Jz-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="V2rUgVD0n56m5McN76Jz-61" value="环境与定位信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="V2rUgVD0n56m5McN76Jz-60">
@@ -180,11 +177,8 @@
         <mxCell id="V2rUgVD0n56m5McN76Jz-19" value="空中机器人" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="162.5" y="648" width="110" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="V2rUgVD0n56m5McN76Jz-90" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="V2rUgVD0n56m5McN76Jz-8" target="V2rUgVD0n56m5McN76Jz-89">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="218" y="522" as="sourcePoint" />
-            <mxPoint x="423" y="458" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="V2rUgVD0n56m5McN76Jz-89" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="240" width="820" height="170" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
