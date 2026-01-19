@@ -17,7 +17,7 @@
           <mxGeometry x="-551" y="1007" width="94" height="48" as="geometry" />
         </mxCell>
         <mxCell id="V2rUgVD0n56m5McN76Jz-10" value="全局路径规划系统" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="-635" y="620" width="158" height="48" as="geometry" />
+          <mxGeometry x="370" y="510" width="158" height="48" as="geometry" />
         </mxCell>
         <mxCell id="V2rUgVD0n56m5McN76Jz-11" value="局部路径规划系统" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="-715" y="741" width="158" height="48" as="geometry" />
@@ -244,12 +244,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="V2rUgVD0n56m5McN76Jz-48" value="环境与定位信息" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.97;entryX=0;entryY=0.41;rounded=0;" edge="1" parent="1" source="V2rUgVD0n56m5McN76Jz-8" target="V2rUgVD0n56m5McN76Jz-20">
+        <mxCell id="V2rUgVD0n56m5McN76Jz-48" value="环境与定位信息" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.97;entryX=0;entryY=0.41;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-172" y="935" />
-              <mxPoint x="-172" y="971" />
+              <mxPoint x="-173" y="937" />
+              <mxPoint x="-173" y="973" />
             </Array>
+            <mxPoint x="66" y="570.5600000000002" as="sourcePoint" />
+            <mxPoint x="379" y="431.68000000000006" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="V2rUgVD0n56m5McN76Jz-49" value="全局定位数据" style="curved=1;startArrow=none;endArrow=block;exitX=0.99;exitY=0.68;entryX=0.23;entryY=-0.01;rounded=0;" edge="1" parent="1" source="V2rUgVD0n56m5McN76Jz-18" target="V2rUgVD0n56m5McN76Jz-17">
