@@ -232,6 +232,7 @@
             <Array as="points">
               <mxPoint x="1319" y="399" />
               <mxPoint x="1319" y="1131" />
+              <mxPoint x="1080" y="860" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -250,18 +251,20 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="V2rUgVD0n56m5McN76Jz-50" value="巡检决策" style="curved=1;startArrow=none;endArrow=block;exitX=0.84;exitY=1.01;entryX=0.61;entryY=0;rounded=0;" edge="1" parent="1" source="V2rUgVD0n56m5McN76Jz-5" target="V2rUgVD0n56m5McN76Jz-6">
-          <mxGeometry relative="1" as="geometry">
+          <mxGeometry x="-0.6376" y="-66" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1390" y="290" />
             </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="V2rUgVD0n56m5McN76Jz-51" value="本体环境与机器人定位信息" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.12;entryX=0.44;entryY=1.01;rounded=0;" edge="1" parent="1" source="V2rUgVD0n56m5McN76Jz-20" target="V2rUgVD0n56m5McN76Jz-5">
-          <mxGeometry relative="1" as="geometry">
+          <mxGeometry x="-0.3844" y="-23" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1201" y="971" />
               <mxPoint x="1201" y="290" />
             </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="V2rUgVD0n56m5McN76Jz-52" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.57;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="V2rUgVD0n56m5McN76Jz-21" target="V2rUgVD0n56m5McN76Jz-8">
