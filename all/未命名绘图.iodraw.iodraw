@@ -396,14 +396,13 @@
             <mxPoint x="1292.5" y="748" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wnmyPeULpj1p48Wv54oc-77" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.496;exitY=1.029;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1300.368" y="326.39200000000005" as="sourcePoint" />
-            <mxPoint x="1300" y="410" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="wnmyPeULpj1p48Wv54oc-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.785;entryY=-0.054;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="2" target="17">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1575" y="360" />
+              <mxPoint x="1343" y="360" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
