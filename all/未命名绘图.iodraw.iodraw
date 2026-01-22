@@ -308,7 +308,7 @@
             </mxGeometry>
           </mxCell>
         </UserObject>
-        <mxCell id="wnmyPeULpj1p48Wv54oc-108" value="图像数据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="66">
+        <mxCell id="wnmyPeULpj1p48Wv54oc-108" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;图像数据&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="66">
           <mxGeometry x="-0.8656" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
