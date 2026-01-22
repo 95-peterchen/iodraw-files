@@ -308,6 +308,11 @@
             </mxGeometry>
           </mxCell>
         </UserObject>
+        <mxCell id="wnmyPeULpj1p48Wv54oc-111" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;图像数据&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="66">
+          <mxGeometry x="-0.9048" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <UserObject label="" tags="Background" id="40">
           <mxCell style="vsdxID=3910000;fillColor=none;gradientColor=none;strokeColor=none;spacingTop=-3;spacingBottom=-3;spacingLeft=-3;spacingRight=-3;points=[];labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;" parent="1" vertex="1">
             <mxGeometry x="827" as="geometry" />
@@ -327,11 +332,6 @@
             </mxGeometry>
           </mxCell>
         </UserObject>
-        <mxCell id="wnmyPeULpj1p48Wv54oc-106" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;点云数据&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="67">
-          <mxGeometry x="-0.8312" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <UserObject label="" tags="Background" id="42">
           <mxCell style="vsdxID=4110000;fillColor=none;gradientColor=none;strokeColor=none;spacingTop=-3;spacingBottom=-3;spacingLeft=-3;spacingRight=-3;points=[];labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;" parent="1" vertex="1">
             <mxGeometry x="827" as="geometry" />
