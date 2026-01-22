@@ -394,6 +394,11 @@
             </mxGeometry>
           </mxCell>
         </UserObject>
+        <mxCell id="wnmyPeULpj1p48Wv54oc-86" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="74">
+          <mxGeometry x="-0.0796" y="-7" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <UserObject label="&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-family: Helvetica; color: rgb(0, 0, 0); direction: ltr; letter-spacing: 0px; line-height: 120%; opacity: 1; font-size: 16px;&quot;&gt;地面无人车巡检单元&lt;/font&gt;&lt;/div&gt;" tags="Background" id="54">
           <mxCell style="verticalAlign=middle;align=center;overflow=width;vsdxID=57;fillColor=none;gradientColor=none;shape=stencil(nZBRDoQgDERP03+WHsHFe5iISyOCQdT19kIaIxq//Jtp3zTpAFaTaUYNUkwx+F6v1EYD+AUpyRkdKCYFqACrzgf9C352LfuxyWRWg1/yhT/nRE5IsZWuZtCSK8CPeI0e/hF+jV7AJM4PO7KWCyr390bSiNtEtQM=);strokeColor=none;spacingTop=-3;spacingBottom=-3;spacingLeft=-3;spacingRight=-3;points=[];labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;" parent="1" vertex="1">
             <mxGeometry x="1710" y="592" width="20" height="188" as="geometry" />
