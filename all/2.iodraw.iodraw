@@ -217,7 +217,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="V2rUgVD0n56m5McN76Jz-103" value="地面无人车巡检单元" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="886" y="592" width="20" height="160" as="geometry" />
+          <mxGeometry x="883" y="592" width="20" height="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
